@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Angela Biancofiore
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Angela
+last_name: Biancofiore
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Artist and writer
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Poetry
+  - Painting
+  - Art
 
 # Education to show in About widget
 education:
@@ -53,16 +53,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/BiancofioreAng1
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,5 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Artist and writer, she was born in Bari (Italy); she attended the Scuola Libera del Nudo at the Academy of Fine Arts in Florence and, in particular, the drawing, engraving and art history courses. Her artistic production covers, apart from painting, ceramics, papier-mâché, the creation of assemblages and bronze sculpture. Her painting, defined by some critics as an "imaginary archaeology" (Omar Calabrese) is centered on the search for the relationship between drawing and writing, a real journey through the language of human communities, a crossing of signs: Cretan signs inscribed on seals or tablets (she lived in Crete), rock engravings of the High Atlas (Oukaimeden, Morocco); from the Vallée des Merveilles (Alpes Maritimes) and Val Camonica (Italy) to the mysterious signs painted in whitewash on the stone houses of his native region: the Trulli (in Puglia, not far from Bari). <br>
+She has also developed research on the writing of the body which resulted in a Performance for signs, body and orchestra. She has exhibited her work in Europe (Italy, France, Belgium, Spain, Greece) and around the world (United States, Mexico, Morocco, China) since 1984. She is the author of several books on the practice of art. , reading images and literary texts. Among his publications on painting: La scrittura degli elementi (Bari, Adriatica, 1988), Maps without territories. / Maps without territories (Paris / New York, Euromedia, 1996), Signes nomades (Montpellier, Euromedia, 1999), Corpi radianti (Venice, ed. Eidos, 2007). She has also published essays on literary and artistic creation: L'opera e il metodo (Lecce, Milella, 1991), Benvenuto Cellini artist-writer: the man at work (Paris, L'Harmattan, 1998), Pasolini (Palermo Palumbo, 2003), Pasolini: for a poetic anthropology, Montpellier, Presses Universitaires de la Méditerranée, 2007, Between confused dreams and apparitions: the poetry of Sandro Penna (in collaboration with Christelle Balderas), Hamburg/Castries, Dobu/ Cladole, 2011, Pasolini. Becoming of a creation, Paris, L’Harmattan, 2012; Let's be the change… New trends in contemporary Italian literature. An anthology, texts collected by Romano Summa and Sondes Ben Abdallah, translation by Manon Rentz, under the direction of A. Biancofiore. <br>
+Since 1993, she has taught art and Italian literature at the Paul-Valéry University of Montpellier, where she has been Professor since 2008. <br>
+She directs the Web magazine Notos: spaces of creation. Arts, writings, utopias.
 {style="text-align: justify;"}

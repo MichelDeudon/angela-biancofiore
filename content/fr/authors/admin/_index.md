@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Angela Biancofiore
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Angela
+last_name: Biancofiore
 
 # Status emoji
 status:
@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Artiste et écrivain
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Poésie
+  - Peinture
+  - Art
 
 # Education to show in About widget
 education:
@@ -53,16 +53,13 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/BiancofioreAng1
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -80,5 +77,8 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Artiste et écrivain, elle est née à Bari (Italie); elle a fréquenté la Scuola Libera del Nudo à l'Académie des Beaux Arts de Florence et, en particulier, les cours de dessin, de gravure et d'histoire de l'art. Sa production artistique recouvre, en dehors de la peinture, la céramique, le papier mâché, la création d'assemblages et la sculpture en bronze. Sa peinture, définie par certains critiques comme une "archéologie imaginaire" (Omar Calabrese) est centrée sur la recherche du rapport entre dessin et écriture, un véritable voyage à travers le langage des communautés humaines, une traversée des signes: des signes crétois inscrits sur les sceaux ou les tablettes (elle a vécu en Crète), aux gravures rupestres du Haut Atlas (Oukaimeden, Maroc); de la vallée des Merveilles (Alpes Maritimes) et du Val Camonica (Italie) jusqu'aux mystérieux signes peints à la chaux sur les maisons en pierre de sa région natale: les Trulli (dans les Pouilles, pas loin de Bari). <br>
+Elle a développé également une recherche sur l'écriture du corps qui a abouti à une Performance for signs, body and orchestra. Elle expose ses travaux en Europe (Italie, France, Belgique, Espagne, Grèce) et dans le monde (Etats-Unis, Mexique, Maroc, Chine) depuis 1984. Elle est l'auteur de plusieurs livres sur la pratique de l'art, la lecture de l'image et du texte littéraire. Parmi ses publications sur la peinture : La scrittura degli elementi (Bari, Adriatica, 1988), Cartes sans territoires. / Maps without territories (Paris / New York, Euromedia, 1996), Signes nomades (Montpellier, Euromedia, 1999), Corpi radianti (Venise, éd. Eidos, 2007). Elle a publié également des essais sur la création littéraire et artistique : L'opera e il metodo (Lecce, Milella, 1991), Benvenuto Cellini artiste-écrivain: l'homme à l'œuvre (Paris, L’Harmattan, 1998), Pasolini (Palermo Palumbo, 2003), Pasolini : pour une anthropologie poétique, Montpellier, Presses Universitaires de la Méditerranée, 2007, Entre rêve confus et apparitions : la poésie de Sandro Penna (en collaboration avec Christelle Balderas), Hambourg/Castries, Dobu/Cladole, 2011, Pasolini. Devenir d’une création, Paris, L’Harmattan, 2012; Soyons le changement… Nouvelles tendances dans la littérature italienne contemporaine. Une anthologie, textes recueillis par Romano Summa et Sondes Ben Abdallah, traduction Manon Rentz, sous la directions de A. Biancofiore. <br>
+Depuis 1993, elle enseigne l'art et la littérature italienne à l’Université Paul-Valéry de Montpellier où elle Professeur depuis 2008. <br>
+Elle dirige la revue Web  Notos: espaces de la création. Arts, écritures, utopies.
 {style="text-align: justify;"}
