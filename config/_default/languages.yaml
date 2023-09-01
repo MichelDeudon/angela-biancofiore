@@ -3,20 +3,20 @@
 #   Documentation: https://wowchemy.com/docs/guide/language/
 
 # Default language
-en:
-  languageCode: en-us
-  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
-  #contentDir: content/en
+fr:
+  languageCode: fr
+  # Uncomment for multi-lingual sites, and move French content into `fr` sub-folder.
+  contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
-#zh:
-#  languageCode: zh-Hans
-#  contentDir: content/zh
-#  title: Chinese website title...
-#  params:
-#    description: Site description in Chinese...
-#  menu:
-#    main:
-#      - name: 传
-#        url: '#about'
-#        weight: 1
+en:
+  languageCode: en-US
+  contentDir: content/en
+  title: Angela Biancofiore
+  params:
+    description: Artist and writer, born in Bari, she attended the Scuola Libera del Nudo at the Academy of Fine Arts in Florence and, in particular, classes in drawing, engraving and art history. Her artistic production covers, apart from painting, ceramics, papier-mâché, the creation of assemblages and bronze sculpture.
+  menu:
+    main:
+      - name: en
+        url: '#'
+        weight: 1
