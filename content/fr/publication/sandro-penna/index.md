@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://angela-biancofiore.netlify.app/publication/sandro-penna/le-chant-secret-dEros-et-Cosmos.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -78,4 +78,4 @@ projects: []
 slides: ""
 ---
 
-Voir aussi [Le chant secret d’Eros et Cosmos : sur la poesie de Sandro Penna](https://angela-biancofiore.netlify.app/publication/sandro-penna/) par Angela Biancofiore.
+Voir aussi [Le chant secret d’Eros et Cosmos : sur la poesie de Sandro Penna](https://angela-biancofiore.netlify.app/publication/sandro-penna/le-chant-secret-dEros-et-Cosmos.pdf) par Angela Biancofiore.
