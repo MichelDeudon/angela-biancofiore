@@ -68,8 +68,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -79,4 +78,4 @@ projects:
 slides: ""
 ---
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Voir aussi [Le chant secret d’Eros et Cosmos : sur la poesie de Sandro Penna](https://angela-biancofiore.netlify.app/en/publication/sandro-penna/) par Angela Biancofiore.
