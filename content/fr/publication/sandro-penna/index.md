@@ -37,7 +37,11 @@ abstract: Sandro Penna - entre rêve confus et apparitions, sous la direction de
 # Summary. An optional shortened abstract.
 summary: Un hommage à la poésie de Sandro Penna, telle est la forme d’un livre collectif sur la poésie du ‘poète de la légèreté’, poète de l’amour et du chant, à contrecourant de la parole officielle, parole modeste qui se fait résonance, parole da la rencontre qui célèbre la beauté du monde...
 
-tags: []
+tags:
+- Sandro Penna
+- Essai
+- Poésie
+- Peinture
 
 # Display this page in the Featured widget?
 featured: true

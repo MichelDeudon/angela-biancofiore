@@ -32,7 +32,9 @@ abstract: L’œuvre en devenir de Pier Paolo Pasolini occupe une place de premi
 # Summary. An optional shortened abstract.
 summary: L’œuvre en devenir de Pier Paolo Pasolini occupe une place de premier plan dans le panorama culturel contemporain - il s’agit d’une réflexion actuelle, par moment prophétique, car elle annonce la question de la création et de la destruction des mondes culturels. Une œuvre nécessaire pour notre pensée critique...
 
-tags: []
+tags:
+- Pasolini
+- Essay
 
 # Display this page in the Featured widget?
 featured: true
