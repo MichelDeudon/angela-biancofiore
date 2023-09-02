@@ -16,8 +16,8 @@ main:
   - name: Blog
     url: '#posts'
     weight: 40
-  - name: Exhibition
-    url: '#talks'
+  - name: Expositions
+    url: '#expo'
     weight: 50
   - name: À propos
     url: '#about'

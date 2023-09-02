@@ -17,7 +17,7 @@ main:
     url: '#posts'
     weight: 40
   - name: Exhibition
-    url: '#talks'
+    url: '#expo'
     weight: 50
   - name: About
     url: '#about'
