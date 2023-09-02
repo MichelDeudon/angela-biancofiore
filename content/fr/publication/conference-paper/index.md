@@ -16,11 +16,11 @@ author_notes:
   - ''
   - ''
 
-date: '2013-07-01T00:00:00Z'
+date: '2011-01-01'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2011-01-01'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +29,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['5']
 
 # Publication name and optional abbreviated publication name.
-publication: 
-publication_short:
+publication: ""
+publication_short: ""
 
 abstract: Sandro Penna : entre rêve confus et apparitions, sous la direction de Christelle Balderas-Laignelet et Angela Biancofiore <br>
 <b>Textes</b> : de Christelle Balderas, Angela Biancofiore, Yannick Gouchan, Myriam Carminati, Anonio Prete <br>
