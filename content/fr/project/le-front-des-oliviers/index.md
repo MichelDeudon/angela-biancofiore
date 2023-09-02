@@ -34,6 +34,5 @@ slides: ""
 
 {{< youtube BVXDiY07JTs >}}
 
-Peintures : Angela Biancofiore (2006)
-
-Musique : David Darling
+Peintures : Angela Biancofiore (2006) <br>
+Musiques : David Darling

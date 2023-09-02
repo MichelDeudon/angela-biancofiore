@@ -33,6 +33,11 @@ slides: ""
 
 {{< youtube lAN58nD0-qw >}}
 
+Paintings: Angela Biancofiore <br>
+Music: CODONA <br>
+Queen's College Art Gallery, New York, April 2003 <br>
+Exhibition director: Peter Carravetta
+
 This is a cycle of paintings exhibited at the Queen's College Art Gallery, New York, April, 2003.
 
 Responsible for the exhibition: Peter Carravetta.

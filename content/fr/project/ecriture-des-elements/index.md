@@ -4,6 +4,7 @@ summary: Lorem ipsum est.
 tags:
   - Peinture
   - Poésie
+  - Musique
   - Art
 date: '2012-03-01'
 
@@ -35,6 +36,9 @@ slides: ""
 ## L’écriture des éléments
 
 {{< youtube kZtlL9dfNwQ >}}
+
+Peintures: Angela Biancofiore <br>
+Musique: Titi Robin
 
 <b>Ta stoicheia</b> ("les éléments"): un cycle de peintures consacré aux quatre éléments: une exposition qui a voyagé (Paris: Galerie Otalia, Rome:Centro L. Di Sarro, Bari : Alliance française) entre 1988 et 1991.
 Un livre a été édité  La scrittura degli elementi  (Bari ed. dal Sud, 1988), avec des textes de Augusto Ponzio, Claude Gandelman, Omar Calabrese.

@@ -1,5 +1,5 @@
 ---
-title: Le front des oliviers
+title: The front of the olive trees
 summary: Selection of paintings and music
 tags:
   - Painting
@@ -34,6 +34,5 @@ slides: ""
 
 {{< youtube BVXDiY07JTs >}}
 
-Painting : Angela Biancofiore (2006)
-
-Music : David Darling
+Paintings: Angela Biancofiore  (2006) <br>
+Music: David Darling
