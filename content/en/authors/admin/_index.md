@@ -17,9 +17,7 @@ superuser: true
 role: Artist and writer
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+organizations: []
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,8 +26,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests: []
 
 # Education to show in About widget
-education:
-  courses: []
+education: []
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
