@@ -2,7 +2,7 @@
 title: Signes nomades
 summary: Adorateur du soleil
 tags:
-  - Photography
+  - Photographie
   - Art
 date: '2012-03-01'
 

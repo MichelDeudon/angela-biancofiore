@@ -2,7 +2,7 @@
 title:   Cartes sans territoires
 summary: Lorem ipsum est
 tags:
-  - Peinture
+  - Painting
   - Art
 date: '2012-03-01'
 
