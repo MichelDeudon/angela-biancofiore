@@ -68,7 +68,7 @@ sections:
   - block: collection
     id: expo
     content:
-      title: Recent & Upcoming Talks
+      title: Expositions
       filters:
         folders:
           - event
