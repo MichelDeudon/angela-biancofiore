@@ -20,7 +20,7 @@ role: Artiste et écrivain
 organizations: []
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Sa production artistique recouvre, en dehors de la peinture, la céramique, le papier mâché, la création d’assemblages et la sculpture en bronze.
 
 # Interests to show in About widget
 interests: []
