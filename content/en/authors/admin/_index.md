@@ -57,15 +57,14 @@ highlight_name: true
 ---
 
 Artist and writer, she was born in Bari (Italy); she attended the Scuola Libera del Nudo at the Academy of Fine Arts in Florence and, in particular, the drawing, engraving and art history courses. Her artistic production covers, apart from painting, ceramics, papier-mâché, the creation of assemblages and bronze sculpture. Her painting, defined by some critics as an "imaginary archaeology" (Omar Calabrese) is centered on the search for the relationship between drawing and writing, a real journey through the language of human communities, a crossing of signs: Cretan signs inscribed on seals or tablets (she lived in Crete), rock engravings of the High Atlas (Oukaimeden, Morocco); from the Vallée des Merveilles (Alpes Maritimes) and Val Camonica (Italy) to the mysterious signs painted in whitewash on the stone houses of his native region: the Trulli (in Puglia, not far from Bari). <br> <br>
-She has also developed research on the writing of the body which resulted in a Performance for signs, body and orchestra. She has exhibited her work in Europe (Italy, France, Belgium, Spain, Greece) and around the world (United States, Mexico, Morocco, China) since 1984. She is the author of several books on the practice of art. , reading images and literary texts. Among his publications on painting: La scrittura degli elementi (Bari, Adriatica, 1988), Maps without territories. / Maps without territories (Paris / New York, Euromedia, 1996), Signes nomades (Montpellier, Euromedia, 1999), Corpi radianti (Venice, ed. Eidos, 2007). She has also published essays on literary and artistic creation: L'opera e il metodo (Lecce, Milella, 1991), Benvenuto Cellini artist-writer: the man at work (Paris, L'Harmattan, 1998), Pasolini (Palermo Palumbo, 2003), Pasolini: for a poetic anthropology, Montpellier, Presses Universitaires de la Méditerranée, 2007, Between confused dreams and apparitions: the poetry of Sandro Penna (in collaboration with Christelle Balderas), Hamburg/Castries, Dobu/ Cladole, 2011, Pasolini. Becoming of a creation, Paris, L’Harmattan, 2012; Let's be the change… New trends in contemporary Italian literature. An anthology, texts collected by Romano Summa and Sondes Ben Abdallah, translation by Manon Rentz, under the direction of A. Biancofiore. <br> <br>
+She has also developed research on the writing of the body which resulted in a [Performance for signs, body and orchestra](https://angela-biancofiore.netlify.app/en/project/performance-for-body-signs-and-orchestra/). She has exhibited her work in Europe (Italy, France, Belgium, Spain, Greece) and around the world (United States, Mexico, Morocco, China) since 1984. She is the author of several books on the practice of art. , reading images and literary texts. Among his publications on painting: [La scrittura degli elementi](https://angela-biancofiore.netlify.app/en/project/ecriture-des-elements/) (Bari, Adriatica, 1988), [Maps without territories](https://angela-biancofiore.netlify.app/en/project/cartes-sans-territoires/) (Paris / New York, Euromedia, 1996), [Signes nomades](https://angela-biancofiore.netlify.app/en/project/signes-nomades/) (Montpellier, Euromedia, 1999), [Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/) (Venice, ed. Eidos, 2007). She has also published essays on literary and artistic creation: L'opera e il metodo (Lecce, Milella, 1991), Benvenuto Cellini artist-writer: the man at work (Paris, L'Harmattan, 1998), Pasolini (Palermo Palumbo, 2003), [Pasolini: for a poetic anthropology](https://angela-biancofiore.netlify.app/en/publication/sandro-penna/), Montpellier, Presses Universitaires de la Méditerranée, 2007, Between confused dreams and apparitions: the poetry of Sandro Penna (in collaboration with Christelle Balderas), Hamburg/Castries, Dobu/ Cladole, 2011, [Pasolini. Becoming of a creation](https://angela-biancofiore.netlify.app/en/publication/pasolini/), Paris, L’Harmattan, 2012; Let's be the change… New trends in contemporary Italian literature. An anthology, texts collected by Romano Summa and Sondes Ben Abdallah, translation by Manon Rentz, under the direction of A. Biancofiore. <br> <br>
 Since 1993, she has taught art and Italian literature at the Paul-Valéry University of Montpellier, where she has been Professor since 2008. <br> <br>
 She directs the Web magazine [Notos: spaces of creation. Arts, writings, utopias](https://notos.numerev.com/).
 {style="text-align: justify;"}
 
 ### Expositions personnelles :
 <b>1996</b> Institut culturel français de Tétouan, Maroc.
-Cartes sans territoires, Espace Louis Feuillade, avec le concours de la Ville de Lunel.
-Maps and no territories, Rosenthal Art Gallery, Queens college, New York.
+[Maps and no territories](https://angela-biancofiore.netlify.app/en/project/cartes-sans-territoires/), Espace Louis Feuillade, avec le concours de la Ville de Lunel. Rosenthal Art Gallery, Queens college, New York.
 
 <b>1997</b> Musée d'art contemporain, Tanger, Maroc.
 
@@ -80,12 +79,12 @@ Galerie Tassili, Montpellier.
 <b>2003</b> Le arie del tempo, Genova.
 
 <b>2006</b> Les voix de Médée, Musée d’art et d’histoire de Saint-Denis.
-Corpi radianti, Performance video, Lecce, a cura del Fondo Verri.
-Corpi radianti, Performance video, Ecole Française d’Athènes.
+[Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), Performance video, Lecce, a cura del Fondo Verri.
+[Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), Performance video, Ecole Française d’Athènes.
 
-<b>2008</b> Il fronte degli ulivi, Galleria dell’Istituto italiano di cultura, Marsiglia.
+<b>2008</b> [Il fronte degli ulivi](https://angela-biancofiore.netlify.app/en/project/le-front-des-oliviers/), Galleria dell’Istituto italiano di cultura, Marsiglia.
 
-<b>2008</b> Rhapsodies terrestres, en collaboration avec le poète Clément Barniaudy, Librairie Domens, Pézenas
+<b>2008</b> [Rhapsodies terrestres](https://angela-biancofiore.netlify.app/publication/rhapsodies-terrestres/), en collaboration avec le poète Clément Barniaudy, Librairie Domens, Pézenas
 
 ### Expositions de groupe :
 <b>1996</b> Gli artisti ripensano la città, Teatro Kismet, Bari, organisé par l'Associazione Apotema.
@@ -106,13 +105,13 @@ Semaine de la peinture européenne, sous le patronage de la Maison de l'Europe, 
 <b>2007</b> Carnets d’artistes, Bibliothèque de la ville de Gênes, organisé par la galerie “Le arie del Tempo”.
 Carnets d’artistes, Bibliothèque municipale de Harelbeke, Belgique.
 
-<b>2008</b> Rhapsodies terrestres, en collaboration avec le poète Clément Barniaudy, Bibliothèque municipale de Harelbeke, Belgique.
+<b>2008</b> [Rhapsodies terrestres](https://angela-biancofiore.netlify.app/publication/rhapsodies-terrestres/), en collaboration avec le poète Clément Barniaudy, Bibliothèque municipale de Harelbeke, Belgique.
 Il fuoco, Galerie Le Arie del tempo, Genova.
 
 <b>2008</b> Exposition pour l’inauguration des jeux olympiques, Maison d’Italie, Pékin.
 
 ### Poésie et peinture : les livres d'artiste
-<b>1992 L'ouverture de la bouche, Livre d'artiste, Poèmes de Michel Eckhard Elial avec seize encres originaux d'Angela Biancofiore, Editions Levant.
+<b>1992</b> L'ouverture de la bouche, Livre d'artiste, Poèmes de Michel Eckhard Elial avec seize encres originaux d'Angela Biancofiore, Editions Levant.
 
 <b>1993</b> Au midi du retour, Poèmes-signes en collaboration avec Michel Eckhard Elial, « Levant » 6/1993.
 
@@ -124,10 +123,10 @@ Il fuoco, Galerie Le Arie del tempo, Genova.
 
 <b>2004</b> Paroles d'étrave, en collaboration avec Charles Becker.
 
-<b>2007</b> Corpi radianti, en collaboration avec Irina Possamai et Annamaria Federici, éd. Eidos, Venise.
+<b>2007</b> [Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), en collaboration avec Irina Possamai et Annamaria Federici, éd. Eidos, Venise.
 
-<b>2008</b> Le front des oliviers, en collaboration avec Anne De Staël, Franc Ducros, James Sacré, Comasia Aquaro.
+<b>2008</b> [Le front des oliviers](https://angela-biancofiore.netlify.app/en/project/le-front-des-oliviers/), en collaboration avec Anne De Staël, Franc Ducros, James Sacré, Comasia Aquaro.
 
-<b>2008</b> Rhapsodies terrestres, avec des poèmes de Clément Barniaudy.
+<b>2008</b> [Rhapsodies terrestres](https://angela-biancofiore.netlify.app/publication/rhapsodies-terrestres/), avec des poèmes de Clément Barniaudy.
 
-<b>2014</b> Lointains chants sacrés d'où je suis né (avec des poèmes de Matiah Eckhard), éditions Euromedia, Montpellier, 2014.
+<b>2014</b> [Lointains chants sacrés d'où je suis né](https://angela-biancofiore.netlify.app/en/publication/matiah-eckhard/) (avec des poèmes de Matiah Eckhard), éditions Euromedia, Montpellier, 2014.
