@@ -1,8 +1,8 @@
 ---
 title: Performance for body signs and orchestra
-summary: Séléction de photos
+summary: Selection of pictures
 tags:
-  - Photographie
+  - Photography
   - Art
 date: '2012-03-01'
 
@@ -31,7 +31,7 @@ url_video: ''
 slides: ""
 ---
 
-## Photos
+## Pictures
 
 {{< figure src="body-signs-and-orchestra/performance-for-body0001.jpg">}}
 

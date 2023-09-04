@@ -34,9 +34,9 @@ abstract: This book invites readers to think of Mediterranean cultures as interc
 summary: New Narratives from Italian Cultures to Global Citizenship.
 
 tags:
-- Culture méditerranéenne 
-- Essai
-- Peinture
+- Mediterranean culture
+- Essay
+- Painting
 - Art
 
 # Display this page in the Featured widget?

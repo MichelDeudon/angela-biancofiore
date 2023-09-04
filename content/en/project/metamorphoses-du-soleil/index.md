@@ -1,8 +1,8 @@
 ---
-title: Metamorphoses du soleil
-summary: Il s'agit d'un cycle de peintures exposées à la Queen's college art gallery, New York, avril, 2003.
+title: The Metamorphosis of the sun
+summary: This is a cycle of paintings exhibited at the Queen's College Art Gallery, New York, April, 2003.
 tags:
-  - Peinture
+  - Painting
   - Art
 date: '2003-04-01'
 
@@ -33,129 +33,88 @@ slides: ""
 
 {{< youtube lAN58nD0-qw >}}
 
-Peintures: Angela Biancofiore <br>
-Musique: CODONA <br>
-Queen's College Art Gallery,  New York, avril 2003 <br>
-Directeur de l'exposition: Peter Carravetta
+Paintings: Angela Biancofiore <br>
+Music: CODONA <br>
+Queen's College Art Gallery, New York, April 2003 <br>
+Exhibition director: Peter Carravetta
 
-Il s'agit d'un cycle de peintures exposées à la Queen's college art gallery, New York, avril, 2003¸.
+This is a cycle of paintings exhibited at the Queen's College Art Gallery, New York, April, 2003.
 
-Responsable de l'exposition: Peter Carravetta.
+Responsible for the exhibition: Peter Carravetta.
 
-## Les métamorphoses du soleil
+## The Metamorphosis of the sun
 
-par Angela Biancofiore
+by Angela Biancofiore
 
-La peinture mord la vie.  La peinture mord la vie à pleines dents… La couleur pénètre la couleur pleinement fortement avidement chaotiquement
+Painting bites life. Painting must bite life.
+Colours seep through colours, completely, strongly, avidly, chaotically.
+Colours thirsting for colours.
+The line has to be free, fast instantaneous : the stroke bites the colour on the paper.
+The speed of the stroke must be faster than the speed of the thought. Colours mixed with colours on the surface of the paper. The embodied line. The line becomes body – blue, red, yellow – on the theatre of the sheet of paper.
+Like the shot of an arrow
+Like a lightning in the sky
+Like a volcanic eruption
+Like an overflowing river
+Like a wave moving the whole sea
+The line, absolute master reigns over the uncontaminated field of the paper
+I show signs
+Signs emerge inside me
+Overflow
+Pour down on the paper
+Signs of life, birth, eruption, cry, dialogue, hunt, pursuit, violence.
+ 
+Signs of death-life
+Birth-destruction
+Sky-earth
+Cold colours-warm colours
 
-La couleur assoiffée de couleur
+The violence of natural elements appears in the space of the sheet
+The violence of the human goes through the sheet of paper
+My signs-forces grow into space, show attraction and repulsion, forces that represent situations of communication or incommunicability, dialogue and non-dialogue, cry, gestures, words.
+My signs carry cosmic forces, the forces of elements: earth, water, air, fire.
+My signs describe orbits, result of opposed tensions – centripetal and centrifugal – the signs-forces embody also situations of great anguish, of terror: pursuit of preys, rage of predators, the breath of the prey and the predator.
+The moment of the fight for the survival is fundamental, necessary to life. And like anything vital, it interests me because my signs don't tell anything unessential, but by their bare style, they are searching for the fundament of bios, the biological and the pre-human.
+Edward Bond talks about the grammar of art and the logic of the human in an article recently published in "Le Monde" (11/10/2003). The human, he says, is always rudimentary, the humanity of creator. What makes visible what is hidden is the rudimentary character of art, because the artist wants to think all that exists. Nevertheless, it is rudimentary to think all that exists. To be total, the image should be rudimentary. E. Bond gives the example of graffitis on  rocks, of tatoos, of the cult of deaths.
+Artistic creation is connected with the essential, with the basic condition of the human, it is not related with the aesthetical production, the practice of art is confrontation, is "bullfight" (tauromachie) . The french writer Michel Leiris thinks that  creation is not only aestetic, "vaines grâces de ballerines". He wanted to write a work  "un équivalent de ce qu'est pour le torero la corne acérée du taureau, qui seule – en raison de la menace matérielle qu'elle recèle – confère une réalité humaine à son art" (De la littérature considérée comme une tauromachie Gallimard, 1939, Folio, p. 39)
+ 
+When I paint, I am not before an empty space, on the contrary. This white space of the canvas or paper is already totally colonized. As Deleuze says, it would be a mistake to believe that the painter works on a white virgin surface. The surface is already entirely full of any type of clichés that the artist has to eliminate for a moment.
+The automatisms of perception prevent us from seeing the world through new eyes. The difficulty is to start from the white which is overcrowded with commonplaces, stereotyped images coming to our mind – like a continuous stream – from the media.
+Solitude – isolation – is necessary to barricate oneself against the stream colonizing the creative thought, against the media trash.
+Then, much time and much practice is necessary to find again the creativity, the will of symbolic activity that our world tends to cancel.
 
-La ligne doit être libre rapide instantanée elle aussi mord dans la feuille la couleur
+From the body to the letter: between the body and the alphabet there is a deep relationship, a systematical connection which is the base of many civilisations.
+The work of Antoni Tàpies is related to this profane (non-religious) mystery ("mistero laico"), as we can call it. That is the connection between a  naked body (nude) and the letters A and B (G. Raillard 2002 : 24).
+I feel near the daily practice of painting of Antoni Tàpies : he paints always horizontally, canvases and papers are on the ground, territory ruled by the artist.  The canvas shows all that is included in the weigh of the body over the paste of soil and colours : that is the relation with the ground, with the roots; in a second time, the canvas is vertical, upright like a wall or a mirror, it proposes a friendly, open, united communication.
+There is the atelier, the room where artistic activity is carried out but the real work consists of continuity, of the unity of a movement of the whole being – affections, involvements, culture, thoughts, mind, writing, sensitivity, the same time, that of the unique stroke of the brush, as Chinese people say (G. Raillard 2002 : 11).
+When I paint my signs on paper I think about one thing and its contrary, I cannot prevent myself from acting by opposed poles (birth/destruction, life/death, dialogue/non-dialogue, light/darkness)
+As Heraclitus says: "from the contrary – comes – the most beautiful harmony".
+Signs-forces embodies opposite tensions: I painted a Snakes' goddess, female figure tending to make a hard balance between opposite poles, the two snakes.
+Ritual repetition of creation : birth.
+ 
+In the set of paintings The metamorphosis of the sun one may recognize the embryo taking shape, cells reproducing themselves, fusions, separations, deaths, continuous rebirths.
+The signs reveal the relation between the reproduction and the movement of the stars, sexual forces of creation and reproduction of life, sidereal forces of universe.
+The same tension animating the cosmos-chaos.
+Now we know that every system tends to the chaos and the order is only an intellectual fiction.
+In order to trace the sign, to translate on the surface the very rhythm of the body, it takes an intensive practice, the repetition of the same sign which will never be the same. The repetition ensure that the sign endly becomes pure, it becomes essential, by eliminating the surplus, the redundant.
+What remains is the bare sign, connected with cosmic forces.
+The chaos emerges in mixing colours. I try to control the chance when I mix liquid colours, the brilliant inks on the surface of the paper.
+The dry sign tends to separate, the liquid sign tends to the fusion of elements, endless fusion and separation, like at the threshold of life (bios).
+My painting is like the snapshot of a metamorphosis.
+ 
+Memory of the sign. I paint these signs because I belong to the eastern Mediterranean world, where signs and seals are tightly related. A world       that was maker of signs and writings, where alphabets travel on board of ships…I am Cretan, Assyrian, Cypriot, Babylonian, Egyptian… I went through the Mediterranean sea searching for a common writing, I found signs of the sunny circle, the labyrinth, the minotaur, the ship, the signs of human. Coupling, hunt, war, death, life.
+I was the signs-hunter.
+The signs start from the world of worshippers of the sun, of hunters, of predators…and they come to the world of agriculture and weaving. My signs are the embodiment of the myth, because all that is mythic is realistic and all that is realistic is mythic (Pasolini).
+Painting is a form of resistance in a society that standardizes, where creative symbolic activity is reduced, where the values of marketing are imposed to the whole system.
+A few years ago I used to paint on earthy surface, often with red or gold ochre. The sign was hieratical, stable, like graffiti engraved on a rock.
+Now the sign hovers in the air, it does not lean on the vertical soil of the pigment.
+Now the sign moves into space
+It became lighter
+There is the air in the ink
+My signs are fighting with force of gravity.
+A friend told me: your signs remind me of the lines of the hand. In fact, I look for the natural line, the organic development of the sign, like the growth of an organism, of a vegetable.
+My signs resist against the domination of a merely scientific knowledge of the world. By way of signs, synthesis of the human, I defend an intuitive knowledge of the world, within the empire of scientific and technocratic reason. Even the science recognizes the importance of intuitive knowledge.
+As Ernesto Sabato says in The writer and the catastrophe (1986) "Don't be surprised if I give the same importance to mythological thought and to the human being that the positivist European arrogance called "primitive".
+ 
+The artwork represents the chaos. The Art is what resists.
 
-Il faut que la vitesse du trait dépasse la vitesse de la pensée. Couleur avec couleur mélangée sur la surface de la feuille. Le trait incarné. Le trait se fait chair bleue rouge jaune sur le théâtre de la feuille.
-
-Comme flèche décochée
-
-Comme éclair dans le ciel
-
-Comme éruption volcanique
-
-Comme débordement de fleuve
-
-Comme houle qui ébranle la mer entière
-
-Le trait maître absolu règne sur le champ incontaminé de la feuille
-
-Je montre les signes
-
-Les signes montent en moi
-
-Débordent, se déversent sur la feuille
-
-Signes de vie, de soleil,
-
-d'accouchements, d'éruption, de cri, de dialogue, de chasse
-
-poursuite, violence
-
-Signes de mort-vie
-
-naissance-destruction
-
-ciel-terre
-
-couleur froide-couleur chaude
-
-la violence des éléments naturels s'exprime dans l'espace de la feuille
-
-la violence de l'humain traverse la feuille
-
-Mes signes-forces se développent dans l'espace, montrent attraction et répulsion, forces  traduisant paroles, situations de communication ou d'incommunicabilité: dialogue et non-dialogue, cri, parole
-
-Les signes véhiculent des forces cosmiques, la force des éléments: eau, terre, air, feu
-
-Mes signes décrivent des orbites, résultat de tensions opposées centrifuges et centripètes, les signes-forces incarnent aussi des situations d'une angoisse extrême, de terreur: poursuite de proies, acharnement de prédateurs, la respiration de la proie et du prédateur.
-
-Le moment de la lutte pour la survie est fondamental, nécessaire à la vie. Et comme tout ce qui est vital, m'intéresse, car mes signes ne racontent rien d'inessentiel, mais cherchent dans leur style dépouillé le fondement du bios, du pré-humain. L'humain est toujours rudimentaire, l'humanité du créateur. Ce qui rend visible ce qui est caché est justement le caractère rudimentaire de l'art, car l'artiste veut penser tout ce qui est. Mais il est rudimentaire de penser tout ce qui est. Pour être totale, l'image doit être rudimentaire. Edward Bond donne l'exemple des graffitis rupestres, des tatouages, du culte des morts. La création artistique est en rapport avec l'essentiel, la condition nue de l'humain, elle n'a peu de rapport avec la production esthétisante, la pratique de l'art est une confrontation, une lutte, une tauromachie, selon l'image de Leiris. Une pratique de l'écriture qui ne serait pas purement esthétique : Leiris voudrait écrire une œuvre qui soit "un équivalent de ce qu'est pour le torero la corne acérée du taureau, qui seule – en raison de la menace matérielle qu'elle recèle – confère une réalité humaine à son art".
-
-Face à la feuille blanche, à la toile blanche, je ne suis pas face à un vide, au contraire. Ce blanc de la toile ou du papier est déjà totalement colonisé, comme affirme Deleuze: "Ce serait une erreur de croire que le peintre travaille sur une surface blanche et vierge. La surface est déjà tout entière investie virtuellement par toutes sortes de clichés avec lesquels il faudra rompre".
-
-Anéantir les clichés, les automatismes de la perception qui empêchent de voir avec des yeux nouveaux. Il est difficile de commencer par le blanc surpeuplé de lieux communs, d'images stéréotypées provenant des media comme un flux ininterrompu.
-
-L'isolement alors est nécessaire. Se barricader contre le flux qui colonise la pensée créative, contre les déchets médiatiques!
-
-Beaucoup de temps et de pratiques sont nécessaires pour retrouver la créativité, la volonté d'activité symbolique que notre société tend à annuler.
-
-Dans l'atelier par contre, le corps du peintre se libère, se confronte avec l'origine du corps de la lettre, avec le corps de l'écriture. Le corps du peintre qui œuvre sur la toile horizontale:" Les toiles réalisées sur le plan horizontal, territoire gouverné par le peintre, exposent tout ce qui est inclus dans ce poids du corps suspendu sur la pâte et sur la poussière: lien avec le sol, enracinement, communication en profondeur, solitaire. Les toiles érigées, comme murs et miroirs, proposent par contre une communication ouverte, solidaire, amicale" (Georges Raillard, Tàpies dans l'atelier).
-
-Je peins sur la toile ou sur le papier posé sur le sol, peindre comme labourer, le sillon est le signe.
-
-"Entre le corps et l'alphabet existe une relation profonde, un rapport systématique, surlequel se fondent différentes civilisations. Tàpies n'est pas étranger à ce "mystère laïque", comme on peut le définir. C'est le lien qui unit un certain nu aux lettres A et B".
-
-Terre et peinture (1956) ou Rideau de fer et violon (1956)… Des œuvres  de ce genre ne sont pas des métaphores, mais s'imposent à notre vue, à nos sens, grâce à ce qui vibre en elles du rythme d'un corps – esprit et matière antérieur à la séparation logique, unité récupérée dans la vision d'une Forme nouvelle, toujours en mouvement, d'une réitération de renaissances"
-
-"Il y a la chambre … où se déroule l'activité artistique, avec le recueillement de l'énergie, la décision immédiate, la surprise et la reprise. Mais le travail réside dans la continuité, dans l'unité d'un mouvement de l'être entier – affections, engagements, culture, réflexions, intelligence, écriture, sensibilité à la fois, en même temps, celui de l''unique trait de pinceau', comme disent les chinois".
-
-Pour Ernesto Sabato, l'artiste ressent plus que quiconque l'unité essentielle du monde. "Ces créateurs unissent, en général, à une hyperesthésie aiguë une intelligence supérieure et sont, fait caractéristique, incapables d'isoler leurs pensées de leurs sensations, ce qui n'est pas le cas des philosophes purs : et cela à cause peut-être de l'intensité énorme et parallèle de leurs sensations et de leurs émotions, à moins qu'ils ne ressentent plus que quiconque l'unité essentielle du monde".
-
-Lorsque je peins et j'inscris mes signes sur la feuille je pense à une chose et à son contraire, je ne peux pas m'empêcher de procéder par pôles opposés (naissance/destruction, vie/mort, dialogue/non-dialogue, lumière/obscurité).
-
-Mes signes sont fondamentalement héraclitéens,  des contraires dérive la plus belle harmonie …
-
-Les signes-forces traduisent des tensions opposées: j'ai peint une déesse aux serpents, personnage qui tend à l'équilibre difficile entre deux pôles opposés, incarnés par les serpents.
-
-Objectif fondamental de la peinture, rendre visible les forces qui ne le sont pas.
-
-Dans les peintures de la série intitulée Les métamorphoses du soleil on peut reconnaître des embryons en formation, des cellules qui se reproduisent, unions, séparations, morts, renaissances continues.
-
-Dans les signes apparaît évident le lien entre la reproduction et le mouvement des étoiles, les forces sexuelles de création et reproduction de la vie, forces sidérales de l'univers. La tension qui anime le cosmos-chaos. Désormais c'est connu, tous les systèmes tendent au chaos et à l'erreur, le cosmos ou ordre est de plus en plus une fiction intellectuelle.
-
-Pour que la main puisse tracer le signe, traduire sur la surface le pur rythme du corps, il faut une pratique intensive, une répétition du même signe, qui ne sera jamais identique à lui-même. La répétition garantit l'épuration du signe, pour atteindre le caractère essentiel, l'élimination du superflu.
-
-Ce qui reste est le signe nu, qui est en relation avec les forces cosmiques.
-
-Le chaos émerge du mélange des couleurs. Le hasard gouverné du mélange de substances liquides, les encres, sur la surperficie du papier. Le signe sec tend à séparer, le signe liquide tend à la fusion des éléments, fusion et séparation continue, comme au seuil de la vie biologique (bios).
-
-Mémoire du signe. Je peins ces signes car je suis grecque. J'appartiens au monde de la Méditerranée orientale, où le signe souvent coïncide avec le sceau.
-
-Monde producteur de signes et écritures, commerce de lettres à bord de vaisseaux. Je suis crétoise, assyrienne, chypriote, babylonienne, égyptienne…J'ai parcouru la Méditerranée à la recherche de l'écriture en commun, j'ai retrouvé le cercle solaire, le labyrinthe, le minotaure, le bateau… les signes de l'humain. Accouplement, chasse, guerre, mort, vie.
-
-Mes signes partent du monde des adorateurs du soleil, des chasseurs, des prédateurs pour arriver au monde de l'agriculture et du tissage. Mes signes sont l'incarnation du mythe, puisque "ce qui est mythique est réaliste et ce qui est réaliste est mythique" (Pasolini).
-
-Peindre est une forme possible de résistance à une société de l'homologation où l'activité symbolique est anéantie, où le principe unique est le marché et la logique de la productivité.
-
-Il y a quelques années je traçais des signes sur des surfaces terreuses, souvent ocre rouge ou ocre d'or, le signe était hiératique, gravé comme sur un rocher, stable. Maintenant le signe se déploie dans l'air, il n'adhère plus au sol vertical des pigments. A présent le signe se développe dans l'espace, il a acquis de la légèreté, il y a de l'air dans le trait, comme disent les peintres chinois. Mes signes luttent contre la force de gravité.
-
-Une fois un ami – qui est aussi un sémioticien -, Jacques Geninasca, m'a écrit dans une lettre: "tes signes font penser aux lignes d'une main". Cette image suggère une vérité importante pour moi, je cherche la ligne naturelle, le développement organique du signe, comme la croissance d'un organisme, d'un végétal.
-
-Mes signes résistent à la domination d'une connaissance purement rationnelle du monde. Mes signes, synthèse de l'humain, défendent une connaissance intuitive du monde, dans une réalité assujettie à l'empire de la raison scientifique et technologique. Pourtant, même la science reconnaît l'importance de la connaissance intuitive.
-
-Ernesto Sabato, de formation scientifique, s'oppose fermement à l'empire de la raison: "Le surréalisme m'apparut comme un feu purificateur contre une culture déshumanisée. On ne sera donc pas surpris que j'accorde dans ces fragments autant d'importance à la pensée mythopoétique et à l'homme que l'arrogance positiviste des Européens a qualifié de "primitif". L'histoire ne fait jamais marche arrière, mais dans l'esprit tout va vers son contraire; et l'excès de scientisme nous conduit à son rejet".
-
-La science ne pourra pas donner de réponse à la question de l'existence humaine, dans la réflexion de Sabato la connaissance objective laisse alors la place à une connaissance tragique: "Face au froid musée des symboles algébriques, l'homme de chair se demandait à quoi pouvait servir ce gigantesque appareil de domination universelle s'il n'était pas capable d'apaiser ses angoisses devant le dilemme de la vie et de la mort. Face au problème de la quintessence des choses, fut posé le problème de l'existence de l'homme; et face à la connaissance objective on revendiqua la connaissance de l'homme, une connaissance tragique par sa nature même, étrangère à la raison".
-
-Le créateur se situe désormais dans le camp de la résistance: l'art, c'est ce qui résiste: "il résiste à la mort, à la servitude, à l'infamie, à la honte" (Deleuze).
-
-La création n'a pas d'autres fonction : être un flux qui se conjugue avec d'autres flux – tous les devenirs minoritaires du monde. Un flux, c'est quelque chose d'intensif, d'instantané et de mutant, entre une création et une destruction (Deleuze).
-
-Ma peinture: un flux parmi d'autres flux, entre création et destruction.
+New York, April 2003.
