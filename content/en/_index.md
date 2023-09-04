@@ -68,7 +68,7 @@ sections:
   - block: collection
     id: expo
     content:
-      title: Expositions
+      title: Exhibitions
       filters:
         folders:
           - event

@@ -62,71 +62,71 @@ Since 1993, she has taught art and Italian literature at the Paul-Valéry Univer
 She directs the Web magazine [Notos: spaces of creation. Arts, writings, utopias](https://notos.numerev.com/).
 {style="text-align: justify;"}
 
-### Expositions personnelles :
-<b>1996</b> Institut culturel français de Tétouan, Maroc.
-[Maps and no territories](https://angela-biancofiore.netlify.app/en/project/cartes-sans-territoires/), Espace Louis Feuillade, avec le concours de la Ville de Lunel. Rosenthal Art Gallery, Queens college, New York.
+### Personal exhibitions:
+<b>1996</b> French Cultural Institute of Tetouan, Morocco.
+[Maps and no territories](https://angela-biancofiore.netlify.app/en/project/cartes-sans-territoires/), Espace Louis Feuillade, with the assistance of the City of Lunel. Rosenthal Art Gallery, Queens College, New York.
 
-<b>1997</b> Musée d'art contemporain, Tanger, Maroc.
+<b>1997</b> Museum of Contemporary Art, Tangier, Morocco.
 
-<b>1998</b> Une mnémopeinture. Centre d'initiatives artistiques de l'Université de Toulouse – Le Mirail, en collaboration avec la revue Horizons Maghrébins.
-Sur les traces d'Oukaïmeden. Galerie Bab Doukala, en collaboration avec l'Association Jazouli, Marrakech, Maroc.
-Institut Français de Rabat; Institut Français de Tanger.
+<b>1998</b> A mnemopainting. Center for artistic initiatives of the University of Toulouse – Le Mirail, in collaboration with the magazine Horizons Maghrébins.
+In the footsteps of Oukaïmeden. Bab Doukala Gallery, in collaboration with the Jazouli Association, Marrakech, Morocco.
+French Institute of Rabat; French Institute of Tangier.
 Hôtel du Département, Béziers.
-Galerie Tassili, Montpellier.
+Tassili Gallery, Montpellier.
 
-<b>2000</b> Les journées de la préhistoire, Hôtel de ville, Valflaunès.
+<b>2000</b> Prehistoric days, Town Hall, Valflaunès.
 
 <b>2003</b> Le arie del tempo, Genova.
 
-<b>2006</b> Les voix de Médée, Musée d’art et d’histoire de Saint-Denis.
+<b>2006</b> The voices of Medea, Saint-Denis Museum of Art and History.
 [Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), Performance video, Lecce, a cura del Fondo Verri.
-[Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), Performance video, Ecole Française d’Athènes.
+[Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), Performance video, French School of Athens.
 
-<b>2008</b> [Il fronte degli ulivi](https://angela-biancofiore.netlify.app/en/project/le-front-des-oliviers/), Galleria dell’Istituto italiano di cultura, Marsiglia.
+<b>2008</b> [Il fronte degli ulivi](https://angela-biancofiore.netlify.app/en/project/le-front-des-oliviers/), Galleria dell'Istituto italiano di cultura, Marsiglia.
 
-<b>2008</b> [Rhapsodies terrestres](https://angela-biancofiore.netlify.app/publication/rhapsodies-terrestres/), en collaboration avec le poète Clément Barniaudy, Librairie Domens, Pézenas
+<b>2008</b> [Terrestrial Rhapsodies](https://angela-biancofiore.netlify.app/en/publication/rhapsodies-terrestres/), in collaboration with the poet Clément Barniaudy, Librairie Domens, Pézenas.
 
-### Expositions de groupe :
-<b>1996</b> Gli artisti ripensano la città, Teatro Kismet, Bari, organisé par l'Associazione Apotema.
+### Group exhibitions:
+<b>1996</b> Gli artisti ripensano la città, Teatro Kismet, Bari, organized by Associazione Apotema.
 
-<b>1999</b> Club de la Presse, Montpellier.
-Musée d'archéologie, San Luis Potosi, Mexique.
+<b>1999</b> Press Club, Montpellier.
+Archeology Museum, San Luis Potosi, Mexico.
 
-<b>2002</b> La lettera d’amore, Bibliothèque communale de Harelbeke, Belgique.
-Scriptions, Musée d'art contemporain de Villa Croce, Gênes.
+<b>2002</b> La lettera d’amore, Municipal Library of Harelbeke, Belgium.
+Scriptions, Museum of Contemporary Art of Villa Croce, Genoa.
 
-<b>2003</b> Ciphers in time. Recent italian mixed-media art, Rosenthal Art Galery, Queens college, New York.
+<b>2003</b> Ciphers in time. Recent Italian mixed-media art, Rosenthal Art Gallery, Queens college, New York.
 
-<b>2005</b> Identités et appartenance. Galerie "Le arie del Tempo", Ville de Gênes.
-Semaine de la peinture européenne, sous le patronage de la Maison de l'Europe, Maison des Relations internationales, Ville de Montpellier.
+<b>2005</b> Identities and belonging. Gallery “Le arie del Tempo”, City of Genoa.
+European Painting Week, under the patronage of the House of Europe, House of International Relations, City of Montpellier.
 
-<b>2006</b> Galleria Souffle, exposition de livres d’artistes, Leucate.
+<b>2006</b> Galleria Souffle, exhibition of artists' books, Leucate.
 
-<b>2007</b> Carnets d’artistes, Bibliothèque de la ville de Gênes, organisé par la galerie “Le arie del Tempo”.
-Carnets d’artistes, Bibliothèque municipale de Harelbeke, Belgique.
+<b>2007</b> Artists' notebooks, Genoa City Library, organized by the “Le arie del Tempo” gallery.
+Artists’ notebooks, Municipal Library of Harelbeke, Belgium.
 
-<b>2008</b> [Rhapsodies terrestres](https://angela-biancofiore.netlify.app/publication/rhapsodies-terrestres/), en collaboration avec le poète Clément Barniaudy, Bibliothèque municipale de Harelbeke, Belgique.
+<b>2008</b> [Terrestrial Rhapsodies](https://angela-biancofiore.netlify.app/en/publication/rhapsodies-terrestres/), in collaboration with the poet Clément Barniaudy, Municipal Library of Harelbeke, Belgium.
 Il fuoco, Galerie Le Arie del tempo, Genova.
 
-<b>2008</b> Exposition pour l’inauguration des jeux olympiques, Maison d’Italie, Pékin.
+<b>2008</b> Exhibition for the inauguration of the Olympic Games, Maison d’Italie, Beijing.
 
-### Poésie et peinture : les livres d'artiste
-<b>1992</b> L'ouverture de la bouche, Livre d'artiste, Poèmes de Michel Eckhard Elial avec seize encres originaux d'Angela Biancofiore, Editions Levant.
+### Poetry and painting: artist books
+<b>1992</b> The opening of the mouth, Artist's book, Poems by Michel Eckhard Elial with sixteen original inks by Angela Biancofiore, Editions Levant.
 
-<b>1993</b> Au midi du retour, Poèmes-signes en collaboration avec Michel Eckhard Elial, « Levant » 6/1993.
+<b>1993</b> At the noon of the return, Poèmes-signes in collaboration with Michel Eckhard Elial, “Levant” 6/1993.
 
-<b>1995</b> Beth. La maison et la lumière, Livre d'artiste, Poèmes de Michel Eckhard Elial, avec un dessin d'Angela Biancofiore, Editions Levant.
+<b>1995</b> Beth. The house and the light, Artist's book, Poems by Michel Eckhard Elial, with a drawing by Angela Biancofiore, Editions Levant.
 
-<b>1996</b> Le livre de l'aurore et de la nuit, en collaboration avec Adonis.
+<b>1996</b> The Book of Dawn and Night, in collaboration with Adonis.
 
-<b>1999</b> Du noir cela, en collaboration avec Franc Ducros.
+<b>1999</b> Black that, in collaboration with Franc Ducros.
 
-<b>2004</b> Paroles d'étrave, en collaboration avec Charles Becker.
+<b>2004</b> Paroles d'étrave, in collaboration with Charles Becker.
 
-<b>2007</b> [Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), en collaboration avec Irina Possamai et Annamaria Federici, éd. Eidos, Venise.
+<b>2007</b> [Corpi radianti](https://angela-biancofiore.netlify.app/en/project/corpi-radianti/), in collaboration with Irina Possamai and Annamaria Federici, ed. Eidos, Venice.
 
-<b>2008</b> [Le front des oliviers](https://angela-biancofiore.netlify.app/en/project/le-front-des-oliviers/), en collaboration avec Anne De Staël, Franc Ducros, James Sacré, Comasia Aquaro.
+<b>2008</b> [Le front des oliviers](https://angela-biancofiore.netlify.app/en/project/le-front-des-oliviers/), in collaboration with Anne De Staël, Franc Ducros , James Sacré, Comasia Aquaro.
 
-<b>2008</b> [Rhapsodies terrestres](https://angela-biancofiore.netlify.app/publication/rhapsodies-terrestres/), avec des poèmes de Clément Barniaudy.
+<b>2008</b> [Terrestrial Rhapsodies](https://angela-biancofiore.netlify.app/en/publication/rhapsodies-terrestres/), with poems by Clément Barniaudy.
 
-<b>2014</b> [Lointains chants sacrés d'où je suis né](https://angela-biancofiore.netlify.app/en/publication/matiah-eckhard/) (avec des poèmes de Matiah Eckhard), éditions Euromedia, Montpellier, 2014.
+<b>2014</b> [Distant sacred songs from where I was born](https://angela-biancofiore.netlify.app/en/publication/matiah-eckhard/) (with poems by Matiah Eckhard), Euromedia editions, Montpellier, 2014.

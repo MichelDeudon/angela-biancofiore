@@ -8,7 +8,7 @@ sections:
   - block: markdown
     id: gallery
     content:
-      title: Gallery
+      title: Gallerie
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
@@ -30,7 +30,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Featured Publications
+      title: Publications sélectionnées
       filters:
         folders:
           - publication
@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Publications récentes
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -77,13 +77,13 @@ sections:
       view: compact
   - block: tag_cloud
     content:
-      title: Popular Topics
+      title: Thèmes populaires
     design:
       columns: '2'
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: Biographie
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: contact

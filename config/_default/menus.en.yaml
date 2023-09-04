@@ -16,7 +16,7 @@ main:
   - name: Blog
     url: '#posts'
     weight: 40
-  - name: Exhibition
+  - name: Exhibitions
     url: '#expo'
     weight: 50
   - name: About

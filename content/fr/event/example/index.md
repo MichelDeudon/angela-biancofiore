@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: Exemple de présentation
 
-event: Wowchemy Conference
+event: Conference Wowchemy
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Wowchemy QG
 address:
   street: 450 Serra Mall
   city: Stanford
@@ -12,7 +12,7 @@ address:
   postcode: '94305'
   country: United States
 
-summary: An example talk.
+summary: Exemple de présentation.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
 
 # Talk start and end times.
@@ -31,14 +31,14 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Crédit image: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+    name: Suivre
+    url: https://twitter.com/BiancofioreAng1
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -59,4 +59,4 @@ slides: ""
 projects: []
 ---
 
-Further event details.
+Plus de détails sur l'événement.
