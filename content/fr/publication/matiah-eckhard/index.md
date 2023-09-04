@@ -6,6 +6,7 @@ title: "Lointains chants sacrés d'où je suis né"
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Matiah Eckhard
+  - admin
 
 # Author notes (optional)
 author_notes:

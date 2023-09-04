@@ -6,6 +6,7 @@ title: 'Rhapsodies terrestres'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Clément Barniaudy
+  - admin
 
 # Author notes (optional)
 author_notes:
