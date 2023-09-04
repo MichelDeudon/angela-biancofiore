@@ -34,7 +34,7 @@ abstract: Poèmes et peintures de Rhapsodies terrestres, 2008.
 summary: Recueil de poèmes et de peintures de Clément Barniaudy et Angela Biancofiore.
 
 tags:
-- Poems
+- Poetry
 - Painting
 - Art
 

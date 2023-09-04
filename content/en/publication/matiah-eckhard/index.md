@@ -35,7 +35,7 @@ summary: Extraits du livre de Matiah Eckhard.
 
 tags:
 - Matiah Eckhard
-- Poems
+- Poetry
 - Painting
 - Art
 
