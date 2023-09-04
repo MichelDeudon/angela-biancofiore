@@ -61,3 +61,73 @@ Elle a développé également une recherche sur l'écriture du corps qui a about
 Depuis 1993, elle enseigne l'art et la littérature italienne à l’Université Paul-Valéry de Montpellier où elle Professeur depuis 2008. <br> <br>
 Elle dirige la revue Web [Notos: espaces de la création. Arts, écritures, utopies](https://notos.numerev.com/).
 {style="text-align: justify;"}
+
+### Expositions personnelles :
+<b>1996</b> Institut culturel français de Tétouan, Maroc.
+Cartes sans territoires, Espace Louis Feuillade, avec le concours de la Ville de Lunel.
+Maps and no territories, Rosenthal Art Gallery, Queens college, New York.
+
+<b>1997</b> Musée d'art contemporain, Tanger, Maroc.
+
+<b>1998</b> Une mnémopeinture. Centre d'initiatives artistiques de l'Université de Toulouse – Le Mirail, en collaboration avec la revue Horizons Maghrébins.
+Sur les traces d'Oukaïmeden. Galerie Bab Doukala, en collaboration avec l'Association Jazouli, Marrakech, Maroc.
+Institut Français de Rabat; Institut Français de Tanger.
+Hôtel du Département, Béziers.
+Galerie Tassili, Montpellier.
+
+<b>2000</b> Les journées de la préhistoire, Hôtel de ville, Valflaunès.
+
+<b>2003</b> Le arie del tempo, Genova.
+
+<b>2006</b> Les voix de Médée, Musée d’art et d’histoire de Saint-Denis.
+Corpi radianti, Performance video, Lecce, a cura del Fondo Verri.
+Corpi radianti, Performance video, Ecole Française d’Athènes.
+
+<b>2008</b> Il fronte degli ulivi, Galleria dell’Istituto italiano di cultura, Marsiglia.
+
+<b>2008</b> Rhapsodies terrestres, en collaboration avec le poète Clément Barniaudy, Librairie Domens, Pézenas
+
+### Expositions de groupe :
+<b>1996</b> Gli artisti ripensano la città, Teatro Kismet, Bari, organisé par l'Associazione Apotema.
+
+<b>1999</b> Club de la Presse, Montpellier.
+Musée d'archéologie, San Luis Potosi, Mexique.
+
+<b>2002</b> La lettera d’amore, Bibliothèque communale de Harelbeke, Belgique.
+Scriptions, Musée d'art contemporain de Villa Croce, Gênes.
+
+<b>2003</b> Ciphers in time. Recent italian mixed-media art, Rosenthal Art Galery, Queens college, New York.
+
+<b>2005</b> Identités et appartenance. Galerie "Le arie del Tempo", Ville de Gênes.
+Semaine de la peinture européenne, sous le patronage de la Maison de l'Europe, Maison des Relations internationales, Ville de Montpellier.
+
+<b>2006</b> Galleria Souffle, exposition de livres d’artistes, Leucate.
+
+<b>2007</b> Carnets d’artistes, Bibliothèque de la ville de Gênes, organisé par la galerie “Le arie del Tempo”.
+Carnets d’artistes, Bibliothèque municipale de Harelbeke, Belgique.
+
+<b>2008</b> Rhapsodies terrestres, en collaboration avec le poète Clément Barniaudy, Bibliothèque municipale de Harelbeke, Belgique.
+Il fuoco, Galerie Le Arie del tempo, Genova.
+
+<b>2008</b> Exposition pour l’inauguration des jeux olympiques, Maison d’Italie, Pékin.
+
+### Poésie et peinture : les livres d'artiste
+<b>1992 L'ouverture de la bouche, Livre d'artiste, Poèmes de Michel Eckhard Elial avec seize encres originaux d'Angela Biancofiore, Editions Levant.
+
+<b>1993</b> Au midi du retour, Poèmes-signes en collaboration avec Michel Eckhard Elial, « Levant » 6/1993.
+
+<b>1995</b> Beth. La maison et la lumière, Livre d'artiste, Poèmes de Michel Eckhard Elial, avec un dessin d'Angela Biancofiore, Editions Levant.
+
+<b>1996</b> Le livre de l'aurore et de la nuit, en collaboration avec Adonis.
+
+<b>1999</b> Du noir cela, en collaboration avec Franc Ducros.
+
+<b>2004</b> Paroles d'étrave, en collaboration avec Charles Becker.
+
+<b>2007</b> Corpi radianti, en collaboration avec Irina Possamai et Annamaria Federici, éd. Eidos, Venise.
+
+<b>2008</b> Le front des oliviers, en collaboration avec Anne De Staël, Franc Ducros, James Sacré, Comasia Aquaro.
+
+<b>2008</b> Rhapsodies terrestres, avec des poèmes de Clément Barniaudy.
+
+<b>2014</b> Lointains chants sacrés d'où je suis né (avec des poèmes de Matiah Eckhard), éditions Euromedia, Montpellier, 2014.
