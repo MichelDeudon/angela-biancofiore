@@ -1,10 +1,10 @@
 ---
 title:   Cartes sans territoires
-summary: Lorem ipsum est
+summary: Lorem ipsum est.
 tags:
   - Peinture
   - Art
-date: '2012-03-01'
+date: '1996-03-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
@@ -16,7 +16,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: Suivre
     url: https://twitter.com/BiancofioreAng1
 url_code: ''
 url_pdf: ''

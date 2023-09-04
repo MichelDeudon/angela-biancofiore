@@ -1,5 +1,5 @@
 ---
-title: 'Sandro Penna : entre rêve confus et apparitions'
+title: 'Sandro Penna: between confused dreams and apparitions'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -32,10 +32,10 @@ publication_types: ['5']
 publication: ""
 publication_short: ""
 
-abstract: Sandro Penna - entre rêve confus et apparitions, sous la direction de Christelle Balderas-Laignelet et Angela Biancofiore.<br> <b>Textes</b> de Christelle Balderas, Angela Biancofiore, Yannick Gouchan, Myriam Carminati, Anonio Prete. <br> <b>Traduction</b> du recueil  Rêve confus (Garzanti, 1980) par Christelle Balderas-Laignelet. <br> <b>Peintures</b> d’Angela Biancofiore. <br><br> Un hommage à la poésie de Sandro Penna, telle est la forme d’un livre collectif sur la poésie du ‘poète de la légèreté’, poète de l’amour et du chant, à contrecourant de la parole officielle, parole modeste qui se fait résonance, parole da la rencontre qui célèbre la beauté du monde. L’œuvre est immense dans son apparente simplicité, le poème se construit dans une musicalité incantatoire, la parole poétique se rapproche du sens et le suspend. Connaître et faire connaître la poésie de Penna est le but de cet ouvrage qui réunit les travaux de plusieurs chercheurs, les différentes lectures se croisent autour des axes essentiels de l’univers poétique de l’auteur. Pénétrer dans l’univers poétique de Penna signifie non seulement retrouver toute une tradition littéraire italienne, de Dante et Pétrarque jusqu’à Pascoli, Saba et Pasolini mais également entendre, ressentir ces affinités à fleur de peau avec Baudelaire, Rimbaud et Gide ; de manière secrète  ou parfois évidente, l’endécasyllabe structure de l’intérieur le chant, la transgression des règles de la prosodie se greffe sur le terrain d’une vaste tradition poétique. Pourtant, jamais le vers ne se présente en tant que forme pure ou artifice, son apparente simplicité renoue avec la réalité du monde, la poésie est au plus près de la vie. <br><br> <b>Prix 22 €</b> <br> Commande par e Mail <a href="mailto:info.cladole@free.fr">info.cladole@free.fr</a> <br> 7, rue de l’Aqueduc 34160 Castries   tél. 09 51 97 57 90.
+abstract: Sandro Penna - between confused dreams and apparitions, under the direction of Christelle Balderas-Laignelet and Angela Biancofiore.<br> <b>Texts</b> by Christelle Balderas, Angela Biancofiore, Yannick Gouchan, Myriam Carminati, Anonio Prete. <br> <b>Translation</b> of the collection Confused Dream (Garzanti, 1980) by Christelle Balderas-Laignelet. <br> <b>Paintings</b> by Angela Biancofiore. <br><br> A tribute to the poetry of Sandro Penna, this is the form of a collective book on the poetry of the 'poet of lightness', poet of love and song, going against the official word , a modest word that resonates, a word of encounter that celebrates the beauty of the world. The work is immense in its apparent simplicity, the poem is constructed in an incantatory musicality, the poetic word comes closer to the meaning and suspends it. Knowing and making Penna's poetry known is the aim of this work which brings together the work of several researchers, the different readings intersect around the essential axes of the author's poetic universe. Entering the poetic universe of Penna means not only rediscovering an entire Italian literary tradition, from Dante and Petrarch to Pascoli, Saba and Pasolini, but also hearing and feeling these deep affinities with Baudelaire, Rimbaud and Gide; in a secret or sometimes obvious way, the endecasyllable structures the song from within, the transgression of the rules of prosody is grafted onto the ground of a vast poetic tradition. However, verse never presents itself as a pure form or artifice, its apparent simplicity reconnects with the reality of the world, poetry is as close as possible to life. <br><br> <b>Price €22</b> <br> Order by e-mail <a href="mailto:info.cladole@free.fr">info.cladole@free.fr</a> <br> 7, rue de l'Aqueduc 34160 Castries tel. 09 51 97 57 90.
 
 # Summary. An optional shortened abstract.
-summary: Un hommage à la poésie de Sandro Penna, telle est la forme d’un livre collectif sur la poésie du ‘poète de la légèreté’, poète de l’amour et du chant, à contrecourant de la parole officielle, parole modeste qui se fait résonance, parole da la rencontre qui célèbre la beauté du monde...
+summary: A tribute to the poetry of Sandro Penna, this is the form of a collective book on the poetry of the 'poet of lightness', poet of love and song, going against the official word, a modest word which is made resonance, words of the meeting which celebrates the beauty of the world...
 
 tags:
 - Sandro Penna
@@ -82,4 +82,4 @@ projects: []
 slides: ""
 ---
 
-Voir aussi [Le chant secret d’Eros et Cosmos : sur la poesie de Sandro Penna](https://angela-biancofiore.netlify.app/en/publication/sandro-penna/le-chant-secret-dEros-et-Cosmos.pdf) par Angela Biancofiore.
+See also [The secret song of Eros and Cosmos: on the poetry of Sandro Penna](https://angela-biancofiore.netlify.app/en/publication/sandro-penna/le-chant-secret-dEros-et-Cosmos.pdf) by Angela Biancofiore.

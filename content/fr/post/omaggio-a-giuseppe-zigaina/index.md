@@ -1,6 +1,6 @@
 ---
 title: Omaggio a Giuseppe Zigaina
-subtitle: Les Matelles, Primo maggio 2015
+subtitle: Les Matelles, Primo maggio 2015.
 
 # Summary for listings and search engines
 summary: Caro Peppino...

@@ -1,6 +1,6 @@
 ---
 title: The ideograms of woman
-subtitle: A shared writing
+subtitle: A shared writing.
 
 # Summary for listings and search engines
 summary: Translation by Richard Wyatt.
@@ -163,40 +163,22 @@ Fire alone (pyr) transforms and opens me (seismòs). The fire
 
 which is in me.
 
-### Bibliography
-
-Biancofiore, Angela, « Titolo e ideogramma nella pratica della pittura », Micromégas, 1990.
-
-Calabrese, Omar, « Il sogno della materia », in La scrittura degli elementi, a cura di A. Ponzio, opere di A. Biancofiore, Bari, Edizioni dal Sud, 1988.
-
-Id., Caos e bellezza. Immagini del neobarocco, Milano, Domus/Academy, 1991.
-
-Février, Jean, Histoire de l'écriture, Paris, Payot, 1984.
-
-Focillon, Henri, Vie des Formes, Paris, Librairie Ernest Leroux, 1943.
-
-Galimberti, Umberto, La terra senza il male , Milano, Feltrinelli, 1984.
-
-Granet, Marcel, La pensée chinoise (1934), Paris, Albin Michel, 1980.
-
-Lacan, Jacques, « L'instance de la lettre dans l'inconscient », in Ecrits, Paris, Seuil, 1966.
-
-Levinas, Emmanuel, L'humanisme de l'autre homme, Montpellier, Fata Morgana, 1972.
-
-Id., « Le sens et l'œuvre. Dialogue avec E. Levinas », a cura di A. Biancofiore, Athanor 1, 1990.
-
-Maertens, Jean-Thierry, Le masque et le miroir, Paris, Abier Montaigne, 1979.
-
-Perniola, Mario, La società dei simulacri, Bologna, Cappelli, 1980.
-
-Id. Enigmi.Il momento egizio nella società e nell'arte, Genova, Costa & Nolan, 1990.
-
-Id., Del sentire, Torino, Einaudi, 1991.
-
-Id., « Fondazionalismo artistico. A proposito di alcuni dipinti di A. Biancofiore », Athanor 2, 1991.
-
-Ponzio, Augusto, « Ta stoicheia », in La scrittura degli elementi, cit. Id., « Verso la città senza nome », Athanor 2, 1991.
-
-Rossi-Landi, Ferruccio, Significato, comunicazione e parlare comune, Padova, Marsilio, 1961, 1980.
-
-Valéry, Paul, Œuvres I-II, Paris, Gallimard, 1957-1960. Id., Cahiers I-II, Paris, Gallimard, 1973-1974.
+### Bibliografia
+- Biancofiore, Angela, « Titolo e ideogramma nella pratica della pittura », Micromégas, 1990.
+- Calabrese, Omar, « Il sogno della materia », in La scrittura degli elementi, a cura di A. Ponzio, opere di A. Biancofiore, Bari, Edizioni dal Sud, 1988.
+- Id., Caos e bellezza. Immagini del neobarocco, Milano, Domus/Academy, 1991.
+- Février, Jean, Histoire de l'écriture, Paris, Payot, 1984.
+- Focillon, Henri, Vie des Formes, Paris, Librairie Ernest Leroux, 1943.
+- Galimberti, Umberto, La terra senza il male , Milano, Feltrinelli, 1984.
+- Granet, Marcel, La pensée chinoise (1934), Paris, Albin Michel, 1980.
+- Lacan, Jacques, « L'instance de la lettre dans l'inconscient », in Ecrits, Paris, Seuil, 1966.
+- Levinas, Emmanuel, L'humanisme de l'autre homme, Montpellier, Fata Morgana, 1972.
+- Id., « Le sens et l'œuvre. Dialogue avec E. Levinas », a cura di A. Biancofiore, Athanor 1, 1990.
+- Maertens, Jean-Thierry, Le masque et le miroir, Paris, Abier Montaigne, 1979.
+- Perniola, Mario, La società dei simulacri, Bologna, Cappelli, 1980.
+- Id. Enigmi.Il momento egizio nella società e nell'arte, Genova, Costa & Nolan, 1990.
+- Id., Del sentire, Torino, Einaudi, 1991.
+- Id., « Fondazionalismo artistico. A proposito di alcuni dipinti di A. Biancofiore », Athanor 2, 1991.
+- Ponzio, Augusto, « Ta stoicheia », in La scrittura degli elementi, cit. Id., « Verso la città senza nome », Athanor 2, 1991.
+- Rossi-Landi, Ferruccio, Significato, comunicazione e parlare comune, Padova, Marsilio, 1961, 1980.
+- Valéry, Paul, Œuvres I-II, Paris, Gallimard, 1957-1960. Id., Cahiers I-II, Paris, Gallimard, 1973-1974.

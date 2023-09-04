@@ -37,7 +37,7 @@ slides: ""
 Paintings: Angela Biancofiore  (2006) <br>
 Music: David Darling
 
-### I segni-colore: percorsi inauditi dell'essere di Comasia Aquaro
+### I segni-colore: percorsi inauditi dell'essere by Comasia Aquaro
 
 I segni-colore si muovono dentro, ti muovono dentro, smuovono un mondo…
 

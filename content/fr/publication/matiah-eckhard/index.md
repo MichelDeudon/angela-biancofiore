@@ -78,9 +78,6 @@ projects: []
 slides: ""
 ---
 
-Tél. : 01 40 46 79 23 / Courriel :  <br>
-ISBN : 978-2-296-96046-6 • février 2012 • 304 pages
-
 Aux éditions Euromedia, avril 2014 <br>
 ISBN 9782954843902 <br>
 52 pages, avec sept peintures d’Angela Biancofiore <br>
@@ -94,77 +91,76 @@ Commande par téléphone : 06 79 68 12 06 <br><br>
 
 ## Extraits du Livre de Matiah Eckhard 
 
-L’eau qui jaillit de la roche
-si pure, puissante et douce.
-La boire à pleines mains
-face aux couleurs rayonnantes de l’air pur :
-du dehors
-jaillir sans cesse                                                                      
-ressentir sa puissance et sa pureté
-se donner à boire à l’univers
-s’imaginer dans le don de soi à l’extérieur de nous-mêmes.
-Alors je suis cette eau qui jaillit sans cesse de la roche
+L’eau qui jaillit de la roche <br>
+si pure, puissante et douce. <br>
+La boire à pleines mains <br>
+face aux couleurs rayonnantes de l’air pur : <br>
+du dehors <br>
+jaillir sans cesse <br>                                                    
+ressentir sa puissance et sa pureté <br>
+se donner à boire à l’univers <br>
+s’imaginer dans le don de soi à l’extérieur de nous-mêmes. <br>
+Alors je suis cette eau qui jaillit sans cesse de la roche <br>
 sous la lumière harmonieuse. 
 
-CE SOIR JE PEUX M’ASSEOIR
-DE MES MOTS COULANT À FLOTS
-DE CE MIEL COULEUR DE CIEL
-DE CE MONDE TRADUIT EN ONDES
-CE SOIR JE PEUX TRADUIRE
-LES ONDES DE MIEL COULANT À FLOTS
-LE CIEL DE MES MOTS EN ONDES
-LES MOTS DU CIEL EN MIEL
+CE SOIR JE PEUX M’ASSEOIR <br>
+DE MES MOTS COULANT À FLOTS <br>
+DE CE MIEL COULEUR DE CIEL <br>
+DE CE MONDE TRADUIT EN ONDES <br>
+CE SOIR JE PEUX TRADUIRE <br>
+LES ONDES DE MIEL COULANT À FLOTS <br>
+LE CIEL DE MES MOTS EN ONDES <br>
+LES MOTS DU CIEL EN MIEL <br>
   –  Couleur ciel – 
 
 ### Préliminaires automnales
 
-Ciel lacté
-arbres penchés
-feuilles descendent,
-portent le sol en quête de mortalité.
-Oiseaux se cachent,
-se retrouvent
-pour mieux s’apprécier.
-Automne, temps de délicatesse,
-le monde tête basse,
-retrouve sa sagesse.
-La rivière rêve de la mer,
-la mer de l’Océan,
-le temps languit le passé,
-les prairies leurs fleurs fanées.
-Amour poignant, larmes de bonheur,
+Ciel lacté <br>
+arbres penchés <br>
+feuilles descendent, <br>
+portent le sol en quête de mortalité. <br>
+Oiseaux se cachent, <br>
+se retrouvent <br>
+pour mieux s’apprécier. <br>
+Automne, temps de délicatesse, <br>
+le monde tête basse, <br>
+retrouve sa sagesse. <br>
+La rivière rêve de la mer, <br>
+la mer de l’Océan, <br>
+le temps languit le passé, <br>
+les prairies leurs fleurs fanées. <br>
+Amour poignant, larmes de bonheur, <br>
 chacun aime l’autre en sa demeure.
  
 ### Pourquoi j’aime le jazz ?
  
-J’aime le jazz car lorsque je le joue je suis heureux,
-car lorsque je l’écoute, j’en suis pas moins heureux.
-J’aime le jazz car il m’inspire la forme la plus pure du bonheur,
-cette forme pure peut être une sorte de Nirvana,
-quelque chose de très physique.
-Ainsi j’ai le bonheur aux tripes, mon corps est heureux
+J’aime le jazz car lorsque je le joue je suis heureux, <br>
+car lorsque je l’écoute, j’en suis pas moins heureux. <br>
+J’aime le jazz car il m’inspire la forme la plus pure du bonheur, <br>
+cette forme pure peut être une sorte de Nirvana, <br>
+quelque chose de très physique. <br>
+Ainsi j’ai le bonheur aux tripes, mon corps est heureux <br>
 alors je suis heureux
  
 ### Chant d’hiver
  
-Fraîche lumière
-fais ondoyer les couleurs
-sur les cimes des arbres.
-Un rayon perce les nuages clairs,
-ce rayon fulmine, enivre,
-comme un éclair,
-il surprend.
-Mon cœur est suspendu à ce rayon.
-Il oxygène, il donne
-de l’élan à ma vision.
-Le rayon fulmine mais la lumière est douce,
-si douce, un flux de vie émane de ce rayon,
-il devient l’artère de mon esprit,
-il me recharge, m’amplifie, m’accomplit.
-Je me sens plein,
-plein de ces reflets qui me chatouillent
-le visage à la manière d’une brise.
-Ô Douce percée des nues,
-chant d’hiver, fais ondoyer
+Fraîche lumière <br>
+fais ondoyer les couleurs <br>
+sur les cimes des arbres. <br>
+Un rayon perce les nuages clairs, <br>
+ce rayon fulmine, enivre, <br>
+comme un éclair, <br>
+il surprend. <br>
+Mon cœur est suspendu à ce rayon. <br>
+Il oxygène, il donne <br>
+de l’élan à ma vision. <br>
+Le rayon fulmine mais la lumière est douce, <br>
+si douce, un flux de vie émane de ce rayon, <br>
+il devient l’artère de mon esprit, <br>
+il me recharge, m’amplifie, m’accomplit. <br>
+Je me sens plein, <br>
+plein de ces reflets qui me chatouillent <br>
+le visage à la manière d’une brise. <br>
+Ô Douce percée des nues, <br>
+chant d’hiver, fais ondoyer <br>
 ce que j’avais, par lassitude, pétrifié.
- 

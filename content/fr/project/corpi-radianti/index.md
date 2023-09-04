@@ -18,7 +18,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: Suivre
     url: https://twitter.com/BiancofioreAng1
 url_code: ''
 url_pdf: ''

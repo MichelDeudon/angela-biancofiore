@@ -16,7 +16,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: Suivre
     url: https://twitter.com/BiancofioreAng1
 url_code: ''
 url_pdf: ''
@@ -38,9 +38,7 @@ Musique: CODONA <br>
 Queen's College Art Gallery,  New York, avril 2003 <br>
 Directeur de l'exposition: Peter Carravetta
 
-Il s'agit d'un cycle de peintures exposées à la Queen's college art gallery, New York, avril, 2003¸.
-
-Responsable de l'exposition: Peter Carravetta.
+Il s'agit d'un cycle de peintures exposées à la Queen's college art gallery, New York, avril, 2003.
 
 ## Les métamorphoses du soleil
 

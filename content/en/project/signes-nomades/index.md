@@ -10,7 +10,7 @@ date: '2012-03-01'
 external_link: ''
 
 image:
-  caption: 'Adorateur du soleil - la chasse'
+  caption: 'Sun worshiper - the hunt'
   focal_point: ''
 
 links:
@@ -31,29 +31,29 @@ url_video: ''
 slides: ""
 ---
 
-## Pictures
+## Paintings and poems
 
 {{< figure src="signes-nomades/adorateur-du-soleil.jpg">}}
 
-A lire en symboles dans les plis du temps.
-Ecriture/peinture harmonisées
-dans leurs formes,
-dans leurs caractères,
-dans leurs forces.
-Entre signes et symboles.    
-A la limite des orages et des catacombes.
-Rien n’est plus indécis.
-Rien n’est plus précaire.
-De la précarité des signes
-et de l’indécision des symboles.
+To be read in symbols in the folds of time. <br>
+Harmonized writing/painting <br>
+in their forms, <br>
+in their characters, <br>
+in their strength. <br>
+Between signs and symbols. <br>
+On the edge of storms and catacombs. <br>
+Nothing is more undecided. <br>
+Nothing is more precarious. <br>
+On the precariousness of signs <br>
+and the indecision of symbols. <br>
 <b>Abdelhak Serhane</b>
 
-Des signes
-qui nous interpellent,
-nous interrogent
-et finissent
-par s’inscrire en nous,
-comme des rêves
-qu’on porte en soi,
-ou des espoirs.
+Signs <br>
+which challenge us, <br>
+question us <br>
+and end <br>
+by registering in us, <br>
+like dreams <br>
+that we carry within ourselves, <br>
+or hopes. <br>
 <b>Abdelhak Serhane</b>

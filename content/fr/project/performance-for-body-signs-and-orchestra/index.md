@@ -1,6 +1,6 @@
 ---
-title: Performance for body signs and orchestra
-summary: Séléction de photos
+title: Performance pour signes corporels et orchestre
+summary: Séléction de photos.
 tags:
   - Photographie
   - Art
@@ -16,7 +16,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: Suivre
     url: https://twitter.com/BiancofioreAng1
 url_code: ''
 url_pdf: ''

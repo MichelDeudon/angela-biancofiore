@@ -1,10 +1,10 @@
 ---
-title:   Cartes sans territoires
-summary: Lorem ipsum est
+title:   Maps without territories
+summary: Lorem ipsum est.
 tags:
   - Painting
   - Art
-date: '2012-03-01'
+date: '1996-03-01'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''

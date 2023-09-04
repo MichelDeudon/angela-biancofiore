@@ -1,5 +1,5 @@
 ---
-title: 'Rhapsodies terrestres'
+title: 'Terrestrial rhapsodies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,10 +28,10 @@ publication_types: ['0']
 publication: ""
 publication_short: ""
 
-abstract: Poèmes et peintures de Rhapsodies terrestres, 2008.
+abstract: Poems and paintings from Terrestrial Rhapsodies, 2008.
 
 # Summary. An optional shortened abstract.
-summary: Recueil de poèmes et de peintures de Clément Barniaudy et Angela Biancofiore.
+summary: Collection of poems and paintings by Clément Barniaudy and Angela Biancofiore.
 
 tags:
 - Poetry
@@ -77,34 +77,34 @@ projects: []
 slides: ""
 ---
 
-## Extrait de poèmes
+## Excerpt from poems
 
-Flux souterrain <br>
-qui irrigue les racines <br>
-distille les tâches bleues <br>
-accueille <br>
-le Néant blanc
+Underground flow <br>
+which irrigates the roots <br>
+distills blue stains <br>
+welcomes <br>
+the white Nothingness
 
-Rhapsodies terrestres <br>
-courbes des profondeurs <br>
-grimpantes sur le Vif <br>
-s’élèvent et s’enfoncent <br> <br>
+Terrestrial rhapsodies <br>
+depth curves <br>
+climbing on the Vif <br>
+rise and sink <br> <br>
 
-Sur le ruban bouclé <br>
-une Anse ouverte port et relais <br>
-des fugues du Sacré <br> <br>
+On the curly ribbon <br>
+an open cove port and relay <br>
+fugues from the Sacred <br> <br>
 
-Emergent <br>
-des bouts de monde <br>
-Archipel <br>
-de brisures soudées  <br> <br>
+Emerging <br>
+parts of the world <br>
+Archipelago <br>
+of welded breaks <br> <br>
  
-Au cœur des flots se dégage <br>
-l’Intervalle <br>
-ouvert <br>
-par l’Ecoute des Abysses
+At the heart of the waves emerges <br>
+Interval <br>
+open <br>
+by Listening to the Abyss
  
-## Extrait de peintures
+## Excerpt from paintings
 
 {{< figure src="rhapsodie/rhapsodie0001.jpg">}}
 {{< figure src="rhapsodie/rhapsodie200011.jpg">}}

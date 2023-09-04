@@ -1,6 +1,6 @@
 ---
 title: Performance for body signs and orchestra
-summary: Selection of pictures
+summary: Selection of pictures.
 tags:
   - Photography
   - Art

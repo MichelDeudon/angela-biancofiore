@@ -1,9 +1,9 @@
 ---
 title: Trance creativa e attraversamento del segno
-subtitle: Lorem ipsum est
+subtitle: Lorem ipsum est.
 
 # Summary for listings and search engines
-summary: Lorem ipsum est
+summary: Lorem ipsum est.
 
 # Link this post with a project
 projects: []
@@ -49,22 +49,21 @@ La linea deve essere libera, rapida, istantanea : il tratto morde nel foglio il 
 
 Bisogna che la velocità del tratto superi la velocità del pensiero. Colore misto a colore sulla superficie del foglio. Il tratto incarnato. Il tratto si fa carne, blu rosso giallo nell'arena del foglio.
 
-Come freccia scoccata
-Come fulmine nel cielo
-Come eruzione vulcanica
-Come straripamento di fiume
-Come onda che muove il mare intero
-Il tratto sovrano assoluto regna sul campo incontaminato del foglio
-Io mostro i segni
-I segni emergono in me
-Straripano
-Si riversano sul foglio
+Come freccia scoccata <br>
+Come fulmine nel cielo <br>
+Come eruzione vulcanica <br>
+Come straripamento di fiume <br>
+Come onda che muove il mare intero <br>
+Il tratto sovrano assoluto regna sul campo incontaminato del foglio <br>
+Io mostro i segni <br>
+I segni emergono in me <br>
+Straripano <br>
+Si riversano sul foglio <br>
 Segni di vita, di sole, di parto, di eruzione, di grido, di dialogo, di caccia, inseguimento, violenza
  
-
-Segni di morte-vita
-nascita distruzione
-cielo terra
+Segni di morte-vita <br>
+nascita distruzione <br>
+cielo terra <br>
 colore  freddo colore caldo
  
 
@@ -153,17 +152,10 @@ Afferma Deleuze: ": l'art, c'est ce qui résiste: il résiste à la mort, à la 
 La pittura ha per me questa funzione essenziale: essere flusso che si coniuga con altri flussi: intenso,  istantaneo e mutevole, sospeso, come le forze cosmiche, tra una creazione e una distruzione.
 
 ### Riferimenti bibliografici
-
-Bond Edward, Grammaire de l'art et logique de l'humain, "Le monde" (27/9/2003).
-
-Deleuze Gilles, Pourparlers, Minuit, 1990.
-
-Idem, Francis Bacon. Logique de la sensation, Paris, Seuil, 2002.
-
-Leiris Michel, De la littérature considérée comme une tauromachie, Paris, Gallimard, 1939.
-
-Raillard Georges, Tàpies nell'atelier, in Antoni Tàpies, Conversazioni con Georges Raillard, a cura di G. Zuccarino, Graphos, Genova, 2002 p. 24, 35, e 11.
-
-Sabato Ernesto, L'écrivain et la catastrophe, Seuil, 1986, p. 62, 8 e 21.
-
-Idem, La résistance, Paris, Seuil, 2002.
+- Bond Edward, Grammaire de l'art et logique de l'humain, "Le monde" (27/9/2003).
+- Deleuze Gilles, Pourparlers, Minuit, 1990.
+- Idem, Francis Bacon. Logique de la sensation, Paris, Seuil, 2002.
+- Leiris Michel, De la littérature considérée comme une tauromachie, Paris, Gallimard, 1939.
+- Raillard Georges, Tàpies nell'atelier, in Antoni Tàpies, Conversazioni con Georges Raillard, a cura di G. Zuccarino, Graphos, Genova, 2002 p. 24, 35, e 11.
+- Sabato Ernesto, L'écrivain et la catastrophe, Seuil, 1986, p. 62, 8 e 21.
+- Idem, La résistance, Paris, Seuil, 2002.

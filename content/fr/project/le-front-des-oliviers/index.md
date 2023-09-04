@@ -17,7 +17,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: Suivre
     url: https://twitter.com/BiancofioreAng1
 url_code: ''
 url_pdf: ''
@@ -37,7 +37,7 @@ slides: ""
 Peintures : Angela Biancofiore (2006) <br>
 Musiques : David Darling
 
-### I segni-colore: percorsi inauditi dell'essere di Comasia Aquaro
+### I segni-colore: percorsi inauditi dell'essere par Comasia Aquaro
 
 I segni-colore si muovono dentro, ti muovono dentro, smuovono un mondo…
 

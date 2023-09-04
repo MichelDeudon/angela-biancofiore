@@ -18,7 +18,7 @@ image:
 links:
   - icon: twitter
     icon_pack: fab
-    name: Follow
+    name: Suivre
     url: https://twitter.com/BiancofioreAng1
 url_code: ''
 url_pdf: ''
@@ -64,9 +64,9 @@ Taluni colori rappresentano gli elementi. Il rosso e l'arancione: il <b>fuoco</b
  
 Colori trasparenti e opachi, semi-trasparenti. Velature. Ombre profonde e rilievo. Toni verdi, toni aranci, toni azzurri. Sovrapposizione, stratificazione, mistione, degradazione di tono. Mescolamento e insieme sovrapposizione dei colori.
  
-"Le feu suggère le désir de changer, de brusquer le temps, de porter toute la vie à son terme, à son au-delà. Alors la rêverie est vraiment prenante et dramatique; elle amplifie le destin humain; elle relie le petit au grand, le foyer au volcan, la vie d'une bûche à la vie d'un monde. L'être fasciné entend l'appel du bûcher. Pour lui, la destruction est plus qu'un changement, est un renouvellement" (Bachelard, La psychanalyse du feu)
+"Le feu suggère le désir de changer, de brusquer le temps, de porter toute la vie à son terme, à son au-delà. Alors la rêverie est vraiment prenante et dramatique; elle amplifie le destin humain; elle relie le petit au grand, le foyer au volcan, la vie d'une bûche à la vie d'un monde. L'être fasciné entend l'appel du bûcher. Pour lui, la destruction est plus qu'un changement, c'est un renouvellement" (Bachelard, La psychanalyse du feu).
  
-### Omar Calabrese,  Il sogno della materia
+### Il sogno della materia par Omar Calabrese
 
 {{< figure src="ecriture-des-elements/homme-piège.jpg">}}
 
@@ -84,7 +84,7 @@ Ed ecco improvvisamente avvenire il miracolo dell'apparizione immotivata del poe
 
 La forza della sperimentazione materiale è così potente, che persino le figure tracciate sulla superficie incerta e resa grezza — le chiare, distinte, percepibilissime figure — sono trasformate e fatte coerenti con il restante ambiente archeologico delle opere. Si prendano i segni più astratti: linee vettoriali, schemi astrologici o alchemici, geometrie irregolari. Ebbene, questi in sé sarebbero segni ambivalenti, le cui matrici potremmo scoprire in un antico paganesimo irrazionale così come in una recente tradizione che va dal solito Kandinskij a Paul Klee, su su fino agli odierni Baruchello o Pericoli. Invece qui il sapore è quello di reperti sperduti nella memoria dell'umanità, quasi disegni delle caverne o tracciati rupestri. Altrove, se il materiale appare di papiro o di pergamena d'Alessandria, il disegno si fa egizio, con chiari simboli lunari e solari, che però anche potrebbero riandare al vicino Chagall. Insomma: tutto un paradigma misto di antichità antropologiche (maya, tolteche, azteche, fenicie, assire, sumere, ittite), fa capolino attraverso carte, volumi, cartapeste, tele, papiri, corde, sugheri, palinsesti. Ma è un paradigma che sa anche di Nuova Figurazione, Astrazione ed Empatia, Blaue Reiter, ovvero di quell'archeo­logia contemporanea che ormai è divenuta la nostra tradizione moderna, la «tradizione del nuovo».
 
-### Claude Gandelman, Écrit sur du Vent
+### Écrit sur du Vent par Claude Gandelman
  
 J'ai tenté de l'inscrire, cette peinture, dans une tradition qui était la grande tradition romantique et, plus précisément, la grande tradition romantique allemande. Mais Angela va peut-être plus loin que les peintres allemands.
  Pour elle,  il s'agit aussi d'alphabet, de l'alphabet de l'élémental, de l'élémentaire. Pour les autres, il s'agissait peut-être bien de l'absence de tout alphabet, de ne plus rien dire, d'écrire le silence. Pour Angela, au contraire, le silence des éléments parle, est alphabet (ou ne serait-ce que lettre…). Dans  beaucoup de ses peintures, notamment dans celle intitulée Le Feu, on distingue des runes: le feu parle.
@@ -98,7 +98,7 @@ Quelle gageure incroyable il y a à vouloir capter l'incaptable : «Wenn er luft
  On connaît  ce fameux anagramme IHWH le tetragrammaton imprononçable! Il ne faudrait surtout pas dire Jéhovah, comme le fait la tradition chrétienne – car c'est justement faire de l'air, faire «sortir l'air», faire à dieu ce que lui nous a fait, c'est-à-dire a fait à notre ancêtre à tous, Adam, lorsqu'il insuffla en lui le pneuma, le tuah, la vie. On ne saurait prononcer «ho» et «ah». C'est pour cela, non pour autre chose, que le nom de Dieu est «indisable». C'est cet air-là, ce vent-là qui nous fascine et dont nous savons qu'il est justement interdit. La tradition chrétienne fait du nom de dieu, en prononçant ce nom, ce nom imprononçable, un être «pneumatique», et c'est a tort, c'est le premier acte d'idolâtrie. Mais la peinture du sublime élémental, la peinture des romantiques allemands, la peinture d'Angela, c'est, au contraire, présenter le pneuma à l'état pur, le présenter non comme ruah mais comme logos. YHWH dont voici la vision cabbalistique, écrit en feu noir sur du feu blanc:
 ne se trouve pas parmi les runes d'Angela, et cependant, c'est cette écriture fondamentale, c'est-a-dire le monde comme «écriture de dieu», comme signature fixée sur du vent, que sa peinture évoque dans le moindre de ses aspects. Si, nous dit-elle, j'ai écris sur du vent, je fixe le non-fixable sur ma toile, c'est parce que je ne peux que parler de ce nom invisible, «imparlable» en termes de sa propre invisibilité et inintelligibilité. De fait, toute sa peinture nous dit ceci qu'il ne suffit peut-être pas de remonter à cette tradition du silence romantique, si proche de nous dans le temps, mais qu'il convient de retourner à une tradition pour laquelle -qu'on l'appelle préhistorique, runique, ou cabbalistique – le monde était, avant tout autre chose, ÉCRITURE. Les tableaux d'Angela sont de l’ÉCRITURE SUR DE L'ÉCRITURE. Nous l'avons dit: ils signifient l'impossibilité de déchiffrer mais aussi l'impossibilité de ne pas voir que tout est écriture, que tout est (déjà) écrit.
 
-### Yves Hersant, Locutio angelorum
+### Locutio angelorum par Yves Hersant
 
 Texte de présentation de l’exposition Ecriture élémentaire, Galerie Otalia, Paris, 1990.
 
@@ -112,9 +112,9 @@ Pourtant, Angela reste une messagère sans message; et de toutes ces connaissanc
 
 Aussi vieille que le monde, la peinture d'Angela est d'une angélique jeunesse.
 
-### Fondazionalismo artistico di Mario Perniola
+### Fondazionalismo artistico par Mario Perniola
 
-testo di presentazione della mostra di Angela Biancofiore presso il Centro "Luigi Di Sarro", Roma, Aprile 1989.
+Testo di presentazione della mostra di Angela Biancofiore presso il Centro "Luigi Di Sarro", Roma, Aprile 1989.
 
 {{< figure src="ecriture-des-elements/vers-le-rêve.jpg">}}
 

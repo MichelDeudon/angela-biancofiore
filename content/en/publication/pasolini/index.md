@@ -1,5 +1,5 @@
 ---
-title: 'Pasolini. Devenir d’une création'
+title: 'Pasolini. Becoming of a creation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -27,10 +27,10 @@ publication_types: ['5']
 publication: ""
 publication_short: ""
 
-abstract: L’œuvre en devenir de Pier Paolo Pasolini occupe une place de premier plan dans le panorama culturel contemporain - il s’agit d’une réflexion actuelle, par moment prophétique, car elle annonce la question de la création et de la destruction des mondes culturels. Une œuvre nécessaire pour notre pensée critique - dans le dialogue des voix qui cherchent une autre issue, qui construisent une vision alternative à la transformation du monde et de l’humain en marchandise. <br><br> Cet essai constitue un itinéraire à travers sa création multiforme, des origines frioulanes jusqu’à la dernière période marquée par l’écriture allégorique - un effort d’analyse et de compréhension qui entend mettre en valeur tous les langages artistiques adoptés par l’auteur - de la poésie au cinéma, du roman à la peinture, du théâtre à l’essai anthropologique, tout en sachant que faire œuvre pour Pasolini signifie concevoir un projet culturel. <br><br> Il est indispensable aujourd’hui de libérer son œuvre d’une lecture purement esthétique afin de viser sa signification profonde dans une plus vaste perspective  culturelle - telle est la position de notre auteur et, dans un sens, son profond héritage. <br><br> La deuxième partie de ce livre est consacrée aux lectures critiques suscitées par l’œuvre pasolinienne - le panorama des auteurs, immense et très diversifié, met en relief les interprétations qui touchent tous les aspects de son œuvre et qui démontrent les possibilités d’analyse, d’ouverture et de dialogue. <br><br> L’articulation des principales tendances critiques ne fait que confirmer l’énorme richesse de la création pasolinienne qui demeure liée au personnage - car, à l’opposé de beaucoup d’intellectuels, il a su être physiquement présent sur la scène de l’histoire, toujours sur la ligne du feu, là où « le monde se renouvelle ».
+abstract: The emerging work of Pier Paolo Pasolini occupies a prominent place in the contemporary cultural panorama - it is a current reflection, at times prophetic, because it announces the question of the creation and destruction of cultural worlds . A necessary work for our critical thinking - in the dialogue of voices which seek another way out, which construct an alternative vision to the transformation of the world and of humans into commodities. <br><br> This essay constitutes an itinerary through his multiform creation, from Friulian origins to the last period marked by allegorical writing - an effort of analysis and understanding which intends to highlight all artistic languages adopted by the author - from poetry to cinema, from novel to painting, from theater to anthropological essay, while knowing that to work for Pasolini means to design a cultural project. <br><br> It is essential today to free his work from a purely aesthetic reading in order to aim at its deep meaning in a broader cultural perspective - such is the position of our author and, in a sense, his profound legacy. <br><br> The second part of this book is devoted to the critical readings sparked by Pasolin's work - the panorama of authors, immense and very diverse, highlights the interpretations which touch on all aspects of his work and which demonstrate the possibilities of analysis, openness and dialogue. <br><br> The articulation of the main critical trends only confirms the enormous richness of Pasolinian creation which remains linked to the character - because, unlike many intellectuals, he knew how to be physically present on the stage of history, always on the line of fire, where “the world is renewed”.
 
 # Summary. An optional shortened abstract.
-summary: L’œuvre en devenir de Pier Paolo Pasolini occupe une place de premier plan dans le panorama culturel contemporain - il s’agit d’une réflexion actuelle, par moment prophétique, car elle annonce la question de la création et de la destruction des mondes culturels. Une œuvre nécessaire pour notre pensée critique...
+summary: The emerging work of Pier Paolo Pasolini occupies a prominent place in the contemporary cultural panorama - it is a current reflection, at times prophetic, because it announces the question of the creation and destruction of cultural worlds . A necessary work for our critical thinking...
 
 tags:
 - Pasolini
@@ -75,6 +75,6 @@ projects: []
 slides: ""
 ---
 
-Contact promotion – diffusion : Céline Lashermes <br>
-Tél. : 01 40 46 79 23 / Courriel : <a href="mailto:celine.lashermes@harmattan.fr">celine.lashermes@harmattan.fr</a> <br>
-ISBN : 978-2-296-96046-6 • février 2012 • 304 pages
+Promotion – distribution contact : Céline Lashermes <br>
+Tel. : 01 40 46 79 23 / Email : <a href="mailto:celine.lashermes@harmattan.fr">celine.lashermes@harmattan.fr</a> <br>
+ISBN : 978-2-296-96046-6 • February 2012 • 304 pages

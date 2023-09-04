@@ -1,5 +1,5 @@
 ---
-title: 'Re-storying Mediterranean Worlds'
+title: 'Réinventer les mondes méditerranéens'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -28,10 +28,10 @@ publication_types: ['5']
 publication: ""
 publication_short: ""
 
-abstract: This book invites readers to think of Mediterranean cultures as interconnected worlds, seen in light of how they evolve, disappear, are reborn and perpetually transform. This perspective intends to build bridges between the Northern and Southern coasts of the sea in order to broaden and deepen our understanding of current evolutions in Mediterranean worlds, at the cultural, literary, artistic and geopolitical levels. As Paul Valéry suggested, we can consider this plural space from the perspective of the intense cultural, economic and human exchanges which have always characterized the Mare Nostrum. We can also consider Mediterranean worlds within an open enactive process, deeply exploring their evolution between nature and culture, examining the natural environment and the transforming relationships between humans and non-humans. <br><br> The writers and researchers in Re-storying Mediterranean Worlds call for a dialog between the two coasts in order to connect what has been broken. In this volume, they highlight an intercultural and creolized conscience, traversing the Mediterranean worlds – including Italian, French and Tunisian cultures, but also migrations from, to and within the region – and transcending any idea of communitarian withdrawal. These essays express the urgent need to shift from an understanding of migration as suffering to the notion that mobility is an unalienable right, building foundations for a new idea of global citizenship.
+abstract: Ce livre invite les lecteurs à penser les cultures méditerranéennes comme des mondes interconnectés, vus à la lumière de la manière dont elles évoluent, disparaissent, renaissent et se transforment perpétuellement. Cette perspective entend construire des ponts entre les côtes nord et sud de la mer afin d'élargir et d'approfondir notre compréhension des évolutions actuelles des mondes méditerranéens, aux niveaux culturel, littéraire, artistique et géopolitique. Comme le suggérait Paul Valéry, on peut considérer cet espace pluriel sous l’angle des intenses échanges culturels, économiques et humains qui caractérisent depuis toujours la Mare Nostrum. Nous pouvons également considérer les mondes méditerranéens dans un processus énactif ouvert, en explorant en profondeur leur évolution entre nature et culture, en examinant l’environnement naturel et les relations transformatrices entre humains et non-humains. <br><br> Les écrivains et chercheurs de Re-storying Mediterranean Worlds appellent à un dialogue entre les deux côtes afin de relier ce qui a été brisé. Dans cet ouvrage, ils mettent en lumière une conscience interculturelle et créolisée, traversant les mondes méditerranéens – incluant les cultures italienne, française et tunisienne, mais aussi les migrations depuis, vers et au sein de la région – et transcendant toute idée de repli communautaire. Ces essais expriment le besoin urgent de passer d’une compréhension de la migration comme souffrance à la notion selon laquelle la mobilité est un droit inaliénable, jetant ainsi les bases d’une nouvelle idée de citoyenneté mondiale.
 
 # Summary. An optional shortened abstract.
-summary: New Narratives from Italian Cultures to Global Citizenship.
+summary: Nouveaux récits des cultures italiennes à la citoyenneté mondiale.
 
 tags:
 - Culture méditerranéenne 
