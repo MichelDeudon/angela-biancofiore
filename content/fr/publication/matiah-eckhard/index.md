@@ -1,5 +1,5 @@
 ---
-title: 'Lointains chants sacrés d'où je suis né'
+title: "Lointains chants sacrés d'où je suis né"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
