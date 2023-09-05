@@ -75,11 +75,6 @@ sections:
     design:
       columns: '2'
       view: compact
-  - block: tag_cloud
-    content:
-      title: Thèmes populaires
-    design:
-      columns: '2'
   - block: about.biography
     id: about
     content:
