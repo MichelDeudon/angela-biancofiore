@@ -1,6 +1,6 @@
 ---
 title: Metamorphoses du soleil
-summary: Il s'agit d'un cycle de peintures exposées à la Queen's college art gallery, New York, avril, 2003.
+summary: Il s'agit d'un cycle de peintures exposées à Queens College, New York, avril, 2003.
 tags:
   - Peinture
   - Art
@@ -35,10 +35,10 @@ slides: ""
 
 Peintures: Angela Biancofiore <br>
 Musique: CODONA <br>
-Queen's College Art Gallery,  New York, avril 2003 <br>
+Queens College,  New York, avril 2003 <br>
 Directeur de l'exposition: Peter Carravetta
 
-Il s'agit d'un cycle de peintures exposées à la Queen's college art gallery, New York, avril, 2003.
+Il s'agit d'un cycle de peintures exposées à Queens College, New York, avril, 2003.
 
 ## Les métamorphoses du soleil
 

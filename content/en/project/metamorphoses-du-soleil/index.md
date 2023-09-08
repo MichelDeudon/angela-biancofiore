@@ -1,6 +1,6 @@
 ---
 title: The Metamorphosis of the sun
-summary: This is a cycle of paintings exhibited at the Queen's College Art Gallery, New York, April, 2003.
+summary: This is a cycle of paintings exhibited at Queens College, New York, April, 2003.
 tags:
   - Painting
   - Art
@@ -35,10 +35,10 @@ slides: ""
 
 Paintings: Angela Biancofiore <br>
 Music: CODONA <br>
-Queen's College Art Gallery, New York, April 2003 <br>
+Queens College, New York, April 2003 <br>
 Exhibition director: Peter Carravetta
 
-This is a cycle of paintings exhibited at the Queen's College Art Gallery, New York, April, 2003.
+This is a cycle of paintings exhibited at Queens College, New York, April, 2003.
 
 ## The Metamorphosis of the sun
 

@@ -8,7 +8,7 @@ sections:
   - block: markdown
     id: gallery
     content:
-      title: Gallerie
+      title: Galerie
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
