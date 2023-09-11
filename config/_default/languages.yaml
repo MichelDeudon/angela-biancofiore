@@ -6,17 +6,17 @@
 fr:
   languageCode: fr
   # Uncomment for multi-lingual sites, and move French content into `fr` sub-folder.
-  contentDir: content/fr
+  #contentDir: content/fr
 
 # Uncomment the lines below to configure your website in a second language.
-en:
-  languageCode: en-US
-  contentDir: content/en
-  title: Angela Biancofiore
-  params:
-    description: Artist and writer, born in Bari, she attended the Scuola Libera del Nudo at the Academy of Fine Arts in Florence and, in particular, classes in drawing, engraving and art history. Her artistic production covers, apart from painting, ceramics, papier-mâché, the creation of assemblages and bronze sculpture.
-  menu:
-    main:
-      - name: en
-        url: '#'
-        weight: 1
+#en:
+#  languageCode: en-US
+#  contentDir: content/en
+#  title: Angela Biancofiore
+#  params:
+#    description: Artist and writer, born in Bari, she attended the Scuola Libera del Nudo at the Academy of Fine Arts in Florence and, in particular, classes in drawing, engraving and art history. Her artistic production covers, apart from painting, ceramics, papier-mâché, the creation of assemblages and bronze sculpture.
+#  menu:
+#    main:
+#      - name: en
+#        url: '#'
+#        weight: 1
